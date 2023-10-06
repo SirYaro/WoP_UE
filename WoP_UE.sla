@@ -64,18 +64,19 @@
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="13" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="5" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Times New Roman Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Rozdział nr" NACH="10" MinWordTrack="1" FONT="Albertus MT Regular" FONTSIZE="12" FONTFEATURES="-clig,-liga" FEATURES="allcaps" FCOLOR="Libre Yellow 0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="14" wordTrack="1" LANGUAGE="pl"/>
         <STYLE NAME="Rozdział tytuł" LINESP="20" NACH="20" MinWordTrack="1" FONT="Albertus MT Regular" FONTSIZE="20" FONTFEATURES="-clig,-liga" FEATURES="allcaps" FCOLOR="Libre Yellow 0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="14" wordTrack="1" LANGUAGE="pl"/>
-        <STYLE NAME="Box tytuł" ALIGN="0" LINESP="15" NACH="10" MinWordTrack="1" FONT="Albertus MT Regular" FONTSIZE="15" FONTFEATURES="-clig,-liga" FEATURES="allcaps" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="14" wordTrack="1" LANGUAGE="pl"/>
         <STYLE NAME="kursywa" PARENT="Default Paragraph Style" FONT="Times New Roman Italic" FONTFEATURES="-clig,-liga" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
         <STYLE NAME="pogrubienie" PARENT="Default Paragraph Style" FONT="Times New Roman Bold" FONTFEATURES="-clig" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
         <STYLE NAME="kursywa+pogrubienie" PARENT="Default Paragraph Style" FONT="Times New Roman Bold Italic" FONTFEATURES="-clig,-liga" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
         <STYLE NAME="Lista wypunktowana" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="4" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="— " Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Times New Roman Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Lista wypunktowana (-1)" PARENT="Lista wypunktowana" LINESP="11" INDENT="14.1732283464567" NACH="4"/>
-        <STYLE NAME="Box tytuł -1" PARENT="Box tytuł" LINESP="12" NACH="0" FONTSIZE="12" KERN="5"/>
-        <STYLE NAME="Box tytuł -2" PARENT="Box tytuł" LINESP="10" VOR="5" NACH="0" FONT="Albertus MT Regular" FONTSIZE="12" FEATURES="outline" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="0"/>
+        <STYLE NAME="Box tytuł 0" ALIGN="0" LINESP="15" NACH="10" MinWordTrack="1" FONT="Albertus MT Regular" FONTSIZE="15" FONTFEATURES="-clig,-liga" FEATURES="allcaps" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="14" wordTrack="1" LANGUAGE="pl"/>
+        <STYLE NAME="Box tytuł -1" PARENT="Box tytuł 0" LINESP="12" NACH="0" FONTSIZE="12" KERN="5"/>
+        <STYLE NAME="Box tytuł -2" PARENT="Box tytuł 0" LINESP="10" VOR="5" NACH="0" FONT="Albertus MT Regular" FONTSIZE="12" FEATURES="outline" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="0"/>
         <STYLE NAME="Rozdział nr (center)" ALIGN="1" NACH="10" MinWordTrack="1" FONT="Albertus MT Regular" FONTSIZE="12" FONTFEATURES="-clig,-liga" FEATURES="allcaps" FCOLOR="Libre Yellow 0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="14" wordTrack="1" LANGUAGE="pl"/>
         <STYLE NAME="||lewo - małe opisy" PARENT="Default Paragraph Style" ALIGN="0" LINESP="11" FONT="Times New Roman Regular" FONTSIZE="10" FONTFEATURES="-clig" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
         <STYLE NAME="uwaga red center" PARENT="Default Paragraph Style" ALIGN="1" FONT="Times New Roman Regular" FONTFEATURES="-clig" FEATURES="" FCOLOR="Red" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
         <STYLE NAME="przykład" PARENT="Default Paragraph Style" ALIGN="1" FONT="Times New Roman Italic" FONTFEATURES="-clig,-liga" FEATURES="" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
+        <STYLE NAME="Lista numerowana" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="4" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="— " Numeration="1" NumerationFormat="0" NumerationSuffix=") " NumerationOther="1" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Times New Roman Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -106,8 +107,13 @@
         </CellStyle>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Tło" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0013" markOffset="0" BleedTop="14.1732283464567" BleedLeft="14.1732283464567" BleedRight="14.1732283464567" BleedBottom="14.1732283464567" printer="EPSON_L805_Net" filename="" separationName="All" printerCommand=""/>
-        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
-            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Albertus MT Regular"/>
+            <Fonts Name="Times New Roman Bold"/>
+            <Fonts Name="Times New Roman Bold Italic"/>
+            <Fonts Name="Times New Roman Italic"/>
+            <Fonts Name="Times New Roman Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
             <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
@@ -277,7 +283,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="LICZBA GRACZY"/>
-                <para PARENT="Box tytuł"/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CPARENT="kursywa" CH="Wojna o Pierścień Ultimate Rework"/>
                 <ITEXT CH=" to gra dla 2 lub 4 graczy. Frakcje, które biorą udział w tym konflikcie, opowiadają się po jednej z dwóch stron: Wolnych Ludów lub Cienia."/>
                 <para/>
@@ -291,7 +297,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ELEMENTY GRY"/>
-                <para PARENT="Box tytuł"/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CH="PLASTIKOWE FIGURKI"/>
                 <para PARENT="Box tytuł -1"/>
                 <ITEXT CH="Podczas rozgrywki armie walczące o Śródziemie (oraz bohaterowie i potwory, które nimi dowodzą) zostały przedstawione za pomocą plastikowych figurek."/>
@@ -594,7 +600,7 @@
                 <para PARENT="Lista wypunktowana (-1)"/>
                 <ITEXT CH="KROK 8:"/>
                 <para PARENT="Box tytuł -1"/>
-                <ITEXT CH="Należy potasować zwykłe karty Poszukiwań i utworzyć z nich talię Poszukiwań zawierającą po 2 karty: „Szpiedzy Cienia”, „Strzeżony Region”, „Ciężkie Brzemię”, „Spokojna Podróż” i „Trudny Teren” (karty Poszukiwań nie zawierające pomarańczowej liczby)."/>
+                <ITEXT CH="Należy potasować zwykłe karty Poszukiwań i utworzyć z nich talię Poszukiwań zawierającą po 2 karty: „Szpiedzy Cienia”, „Atak Wilków”, „Ciężkie Brzemię”, „Spokojna Podróż” i „Trudny Teren” (karty Poszukiwań nie zawierające pomarańczowej liczby)."/>
                 <para/>
                 <ITEXT CH="Specjalne karty Poszukiwań należy odłożyć na bok i ułożyć je według kosztu punktów Poszukiwań (pomarańczowa liczba). "/>
                 <para/>
@@ -839,7 +845,7 @@
                 <ITEXT CH="Rozgrywka w Wojnie o Pierścień składa się z serii tur, rozgrywanych do momentu, w którym jeden z graczy nie zostanie zwycięzcą. Każda tura składa się z siedniu faz."/>
                 <para/>
                 <ITEXT CH="SKRÓT PRZEBIEGU TURY"/>
-                <para PARENT="Box tytuł"/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CH="Tura składa się z następujących faz:"/>
                 <para/>
                 <ITEXT CH="Faza 1) Odzyskiwanie kośści akcji i dobieranie kart Wydarzeń"/>
@@ -881,7 +887,7 @@
                 <ITEXT CH="Kiedy gracze wykonają wszystkie czynności wymagane przez poszczególne fazy, dana tura dobiega końca i rozpoczyna się następna (chyba że jeden z graczy osiągnął swoje warunki zwycięstwa, w takim wypadku gra się kończy)."/>
                 <para/>
                 <ITEXT CH="KOŚCI AKCJI"/>
-                <para PARENT="Box tytuł"/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CPARENT="pogrubienie 11pt *" CH="Kości akcji"/>
                 <ITEXT CH=" odgrywają podczas gry główną rolę, bowiem wskazują dostępne dla obu graczy akcje w danej turze."/>
                 <para/>
@@ -1061,49 +1067,54 @@
         <PAGEOBJECT XPOS="140.00062992126" YPOS="9810.79086614174" OwnPage="21" ItemID="1896992730" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.88409448819" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944882" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1901390858" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="ROZ D Z I A Ł V:"/>
+                <ITEXT CH="ROZDZIAŁ V:"/>
+                <para PARENT="Rozdział nr"/>
+                <ITEXT CH="KARTY WYDARZEŃ"/>
+                <para PARENT="Rozdział tytuł"/>
+                <ITEXT CH="Karty Wydarzeń przedstawiają wiele szczęśliwych (i tragicznych) zdarzeń z "/>
+                <ITEXT CPARENT="kursywa" CH="Władcy Pierścieni"/>
+                <ITEXT CH=", a także specjalne przedmioty, nieoczekiwane zajścia i alternatywne biegi wydarzeń."/>
                 <para/>
-                <ITEXT CH="KARTY WYDARZ EŃ"/>
-                <para/>
-                <ITEXT CH="Karty Wydarzeń przedstawiają wiele szczęśliwych (i tragicznych) zdarzeń z Władcy Pierścieni, a także specjalne przedmioty, nieoczekiwane zajścia i alternatywne biegi wydarzeń."/>
-                <para/>
-                <ITEXT CH="Co więcej, gracze mogą korzystać z kart Wydarzeń podczas bitew, aby zapewnić sobie różne specjalne efekty. Kiedy karta Wydarzenia zostaje zagrana w celu wykorzystania jej zdolności bitwy, nazywa się ją kartą Bitwy."/>
-                <para/>
+                <ITEXT CH="Co więcej, gracze mogą korzystać z kart Wydarzeń podczas bitew, aby zapewnić sobie różne specjalne efekty. Kiedy karta Wydarzenia zostaje zagrana w celu wykorzystania jej zdolności bitwy, nazywa się ją "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="kartą Bitwy"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="TALIE WYDARZEŃ"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Każdy gracz otrzymuje po dwie talie kart Wydarzeń: talię Strategii"/>
+                <ITEXT CH=" (oznaczoną symbolem chorągwi armii) i "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="talię Postaci"/>
+                <ITEXT CH=" (oznaczoną symbolem miecza)."/>
                 <para/>
-                <ITEXT CH="Każdy gracz otrzymuje po dwie talie kart Wydarzeń: talię Strategii (oznaczoną symbolem chorągwi armii) i talię Postaci (oznaczoną symbolem miecza)."/>
-                <para/>
-                <ITEXT CH="Karty z talii Strategii zazwyczaj zapewniają graczom dodatkowe opcje wojskowe i polityczne, natomiast karty z talii Postaci (ERRATA DO OFICJALNEJ INSTRUKCJI PL)są często powiązane z Drużyną Pierścienia oraz działaniami Towarzyszy i Sług na mapie."/>
-                <para/>
+                <ITEXT CH="Karty z talii Strategii zazwyczaj zapewniają graczom dodatkowe opcje wojskowe i polityczne, natomiast karty z talii Postaci (ERRATA DO OFICJALNEJ INSTRUKCJI PL) są często powiązane z Drużyną Pierścienia oraz działaniami Towarzyszy i Sług na mapie."/>
                 <para/>
                 <ITEXT CH="DOBIERANIE KART WYDARZEŃ"/>
-                <para/>
-                <ITEXT CH="Podczas pierwszej fazy każdej tury (w tym podczas pierwszej tury) każdy z graczy musi dobrać po jednej karcie z każdej ze swoich talii Wydarzeń."/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Podczas pierwszej fazy każdej tury (w tym podczas pierwszej tury) każdy z graczy musi dobrać po jednej karcie z każdej ze swoich talii Wydarzeń."/>
                 <para/>
                 <ITEXT CH="Jedynym sposobem na dobranie dodatkowych kart z talii Bohaterów/Sług jest wykonanie akcji Wydarzenia. "/>
                 <para/>
-                <ITEXT CH="W dowolnym momencie gry każdy gracz może mieć na ręce maksymalnie sześć osiem kart. Kiedy tylko przekroczy tę liczbę, musi natychmiast odrzucić nadmiarowe karty. Karty odkłada się odkryte na stosie kart odrzuconych."/>
+                <ITEXT CH="W dowolnym momencie gry każdy gracz może mieć na ręce "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="maksymalnie sześć osiem kart"/>
+                <ITEXT CH=". Kiedy tylko przekroczy tę liczbę, musi natychmiast odrzucić nadmiarowe karty. Karty odkłada się odkryte na stosie kart odrzuconych."/>
                 <para/>
-                <ITEXT CH="Jeśli podczas gry któraś z talii zostanie wyczerpana, nie należy tasować stosu kart odrzuconych. Od tego momentu gracz nie będzie już mógł dobierać kart z danej talii (i w związku z tym, podczas fazy Odzyskiwania kości i dobierania kart Wydarzeń, będzie dobierał tylko jedną kartę z drugiej talii)."/>
+                <ITEXT CH="Jeśli podczas gry któraś z talii zostanie wyczerpana, "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="nie należy tasować"/>
+                <ITEXT CH=" stosu kart odrzuconych. Od tego momentu gracz nie będzie już mógł dobierać kart z danej talii (i w związku z tym, podczas fazy Odzyskiwania kości i dobierania kart Wydarzeń, będzie dobierał tylko jedną kartę z drugiej talii)."/>
                 <para/>
                 <ITEXT CH="ZAGRYWANIE KART WYDARZEŃ"/>
-                <para/>
+                <para PARENT="Box tytuł -1"/>
                 <ITEXT CH="Podczas fazy Rozpatrywania akcji gracze mogą zagrywać karty Wydarzeń na dwa sposoby:"/>
                 <para/>
-                <ITEXT CH="1) wykorzystując wynik „Wydarzenia” z kości akcji (symbol Palantira)"/>
-                <para/>
-                <ITEXT CH="ALBO"/>
-                <para/>
-                <ITEXT CH="2) wykorzystując wynik kości akcji odpowiadający symbolem symbolowi w prawym górnym rogu karty."/>
-                <para/>
+                <ITEXT CH="wykorzystując wynik „Wydarzenia” z kości akcji (symbol Palantira), ALBO"/>
+                <para PARENT="Lista numerowana"/>
+                <ITEXT CH="wykorzystując wynik kości akcji odpowiadający symbolem symbolowi w prawym górnym rogu karty."/>
+                <para PARENT="Lista numerowana"/>
                 <ITEXT CH="Efekty kart Wydarzeń zostały opisane na samych kartach."/>
                 <para/>
                 <ITEXT CH="Często przed zastosowaniem efektu karty gracz musi spełnić jakiś warunek. Jeśli gracz nie spełnia w całości tego warunku, nie może zagrać danej karty."/>
                 <para/>
-                <ITEXT CH="Zazwyczaj karty pozwalają graczom wykonywać akcje, które łamią podstawowe zasady gry. To celowy zabieg. Jednakże, gracz"/>
-                <para/>
-                <ITEXT CH="nadal musi brać pod uwagę wszystkie zasady, których treść karty w wyraźny sposób nie zastępuje. Gdy efekt karty zostanie rozpatrzony, kartę odkłada się odkrytą na stosie kart odrzuconych."/>
+                <ITEXT CH="Zazwyczaj karty pozwalają graczom wykonywać akcje, które łamią podstawowe zasady gry. To celowy zabieg. Jednakże, gracz nadal musi brać pod uwagę wszystkie zasady, których treść karty w wyraźny sposób nie zastępuje. Gdy efekt karty zostanie rozpatrzony, kartę odkłada się odkrytą na stosie kart odrzuconych."/>
                 <para/>
                 <ITEXT CH="W większości przypadków karty Wydarzeń są odrzucane zaraz po rozpatrzeniu ich efektów. Jednak jeśli ich efekt jest oznaczony jako Trwały, to w takim przypadku umieszczasz je przed tobą, dopóki nie zostaną odrzucone. Należy pamiętać, że jeśli warunek niezbędny do zagrania takiej karty przestanie być spełniony, karta zostaje natychmiast odrzucona. "/>
                 <para/>
@@ -1115,24 +1126,20 @@
                 <para/>
                 <ITEXT CH="Może się zdarzyć, że efekty danej karty Wydarzenia nie mogą zostać w pełni wprowadzone w życie. W takim wypadku gracz nadal może zagrać taką kartę, a jej efekty należy wprowadzić w życie na tyle, na ile to możliwe. "/>
                 <para/>
-                <para/>
                 <ITEXT CH="Karty Wydarzeń zmuszające do poniesienia strat"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Kilka kart wywołuje efekty, które mogą zmusić gracza do usunięcia z gry pewnych figurek. Jeśli efekt takiej karty wyeliminuje wszystkie jednostki danej armii."/>
                 <para/>
                 <ITEXT CH="Dowódcy, Nazgûle, postacie pozostające w regionie nie są eliminowane, (chyba że na karcie napisane jest inaczej). Gdy straty są zadawane przez kartę, to zawsze gracz, który ponosi straty decyduje o ich usunięciu (o ile te straty spełniają wymagania określone przez efekt karty)."/>
                 <para/>
-                <para/>
                 <ITEXT CH="Statek Korsarzy "/>
-                <para/>
-                <para/>
+                <para PARENT="Box tytuł -1"/>
                 <ITEXT CH="Niektóre karty wydarzeń pozwalają na umieszczenie na planszy statków Korsarzy. Statki te można umieszczać wyłącznie w regionach sąsiadujących z wielkim morzem lub w regionach, w których znajduje się rzeka połączona z wielkim morzem. Na poniższej mapie na czerwono oznaczone są regiony, w których nie można umieścić statku Korsarzy:"/>
                 <para/>
                 <ITEXT CH="Maksymalnie 3 jednostki regularne LUB 1 elitarna i 2 jednostki regularne (a także dowolna liczba Nazgûli lub postaci) mogą poruszać się pomiędzy dwoma regionami (z których każdy zawiera statek Korsarzy) tak, jakby sąsiadowały ze sobą."/>
                 <para/>
-                <para/>
                 <ITEXT CH="Statki Korsarzy nie liczą się jako jednostki, nie mogą się poruszać ani walczyć i są usuwane z gry, jeśli armia Wolnych Ludów znajdzie się w regionie, w którym się znajdują. Nie wliczają się więc do limitu jednostek, jakie może zawierać dany region."/>
-                <para/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="735.276220472441" YPOS="9810.79086614174" OwnPage="22" ItemID="1901390858" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.88409448819" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944882" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1896992730"/>
@@ -1140,14 +1147,16 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="KARTY BITWY"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Oprócz zwykłego „tekstu wydarzeń”, wszystkie karty Wydarzeń posiadają też dodatkowy tekst (mieszczący się u dołu karty) opisujący wykorzystanie danej karty jako "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="karty Bitwy"/>
+                <ITEXT CH="."/>
                 <para/>
-                <ITEXT CH="Oprócz zwykłego „tekstu wydarzeń”, wszystkie karty Wydarzeń posiadają też dodatkowy tekst (mieszczący się u dołu karty) opisujący wykorzystanie danej karty jako karty Bitwy."/>
-                <para/>
-                <ITEXT CH="W przeciwieństwie do zagrywania głównej części karty Wydarzenia, zagranie karty Bitwy nie wymaga wykorzystania jednej z akcji gracza. "/>
-                <para/>
+                <ITEXT CH="W przeciwieństwie do zagrywania głównej części karty Wydarzenia, zagranie karty Bitwy "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="nie wymaga wykorzystania jednej z akcji gracza"/>
+                <ITEXT CH=". "/>
                 <para/>
                 <ITEXT CH="Podczas bitwy można zagrać kartę Bitwy przy pomocy symbolu „Zagraj kartę” uzyskanego na kości Bitwy."/>
-                <para/>
                 <para/>
                 <ITEXT CH="Karty Bitwy modyfikują normalne zasady gry w podobny sposób jak karty Wydarzeń – ich treść ma pierwszeństwo przed zasadami zawartymi w tej instrukcji. Karty Wydarzeń zagrane jako karty Bitwy odrzuca się natychmiast po ich wykorzystaniu."/>
                 <para/>
@@ -1156,10 +1165,10 @@
         <PAGEOBJECT XPOS="735.276220472441" YPOS="10692.6803149606" OwnPage="24" ItemID="2012197386" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488194" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2014896506" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="ROZ D Z I A Ł V I :"/>
-                <para/>
+                <ITEXT CH="ROZDZIAŁ V I :"/>
+                <para PARENT="Rozdział nr"/>
                 <ITEXT CH="SKŁAD ARMII"/>
-                <para/>
+                <para PARENT="Rozdział tytuł"/>
                 <ITEXT CH="Nieprzeliczone hordy Czarnego Władcy i nieugięci obrońcy Zachodu odgrywają w Wojnie o Pierścień główną rolę – ich werbunek i wykorzystanie stanowią klucz do zwycięstwa. Wcześniej (w akapicie „Przygotowanie gry”) opisano początkowy rozkład sił, ale wraz z przebiegiem rozgrywki armie obu graczy będą wspomagać posiłki, a same zastępy zetrą się w śmiertelnej walce. Poniżej znajdują się zasady rządzące tym elementem gry."/>
                 <para/>
                 <ITEXT CH="Wszystkie przyjazne jednostki, dowódcy i postacie znajdujący się w jednym regionie tworzą armię."/>
@@ -1171,78 +1180,82 @@
                 <ITEXT CH="Podobnie, armię można podzielić, po prostu przesuwając część z jej jednostek do sąsiedniego regionu (pozostawiając resztę w obecnym regionie)."/>
                 <para/>
                 <ITEXT CH="OGRANICZENIE WIELKOŚCI"/>
-                <para/>
-                <ITEXT CH="W danym regionie może się znajdować maksymalnie 10 jednostek."/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="W danym regionie może się znajdować maksymalnie "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="10 jednostek"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="Jeśli pod koniec dowolnej akcji (na przykład po wykonaniu ruchu lub mobilizacji wojsk) w danym regionie znajduje się więcej niż 10 jednostek, gracz, który je kontroluje, musi usunąć z gry nadmiarowe jednostki."/>
                 <para/>
                 <ITEXT CH="Usunięte w ten sposób jednostki mogą w późniejszym etapie gry wrócić do rozgrywki pod postacią posiłków."/>
                 <para/>
-                <para/>
                 <ITEXT CH="POLA ARMII"/>
-                <para/>
-                <ITEXT CH="Przy lewej krawędzi planszy znajdują się trzy ponumerowane pola armii."/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Przy lewej krawędzi planszy znajdują się trzy ponumerowane "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="pola armii"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="Jeśli rozmiary i liczba plastikowych figurek nie pozwalają na umieszczenie ich fizycznie w danym regionie, gracz, który je kontroluje, może przesunąć część lub wszystkie z tych figurek z tego regionu na wolne pole armii, a w regionie, z którego je zabrał, umieścić żeton armii z numerem pola, tak aby pamiętać o wszystkich faktycznie znajdujących się tam jednostkach. Gracz może w dowolnym momencie przesunąć figurki z pola armii z powrotem na mapę."/>
                 <para/>
                 <ITEXT CH="Przesuwając jednostki na pola armii gracze powinni uważać, aby nie przekroczyć ograniczenia wielkości armii. Dla celów gry uważa się, że wszystkie figurki znajdujące się na polu armii znajdują się w regionie zawierającym żeton armii o odpowiednim numerze."/>
                 <para/>
-                <para/>
-                <ITEXT CH="Przykład: Gracz Wolnych Ludów przesuwa armię składającą się z 10 regularnych jednostek Gondoru do Lossarnach. Okazuje się, że region ten jest zbyt mały, aby pomieścić wszystkie te figurki. Pole armii numer 3 jest wolne, dlatego gracz usuwa 8 figurek regularnych jednostek Gondoru i umieszcza je na tym polu. Następnie bierze żeton armii z numerem 3 i umieszcza go w Lossarnach wraz z dwoma pozostałymi figurkami. Jeśli tylko zajdzie taka potrzeba, żeton może zostać zastąpiony figurkami z pola armii."/>
-                <para/>
-                <para/>
+                <ITEXT CPARENT="kursywa+pogrubienie" CH="Przykład"/>
+                <ITEXT CH=": Gracz Wolnych Ludów przesuwa armię składającą się z 10 regularnych jednostek Gondoru do Lossarnach. Okazuje się, że region ten jest zbyt mały, aby pomieścić wszystkie te figurki. Pole armii numer 3 jest wolne, dlatego gracz usuwa 8 figurek regularnych jednostek Gondoru i umieszcza je na tym polu. Następnie bierze żeton armii z numerem 3 i umieszcza go w Lossarnach wraz z dwoma pozostałymi figurkami. Jeśli tylko zajdzie taka potrzeba, żeton może zostać zastąpiony figurkami z pola armii."/>
+                <para PARENT="przykład"/>
                 <ITEXT CH="REKRUTACJA WOJSK"/>
-                <para/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CH="REKRUTACJA NOWYCH JEDNOSTEK I DOWODCOW"/>
-                <para/>
-                <para/>
-                <ITEXT CH="Podczas fazy Rozpatrywania akcji gracze mogą wprowadzać do gry nowe jednostki armii i dowódców. Mogą to robić na dwa sposoby: wykorzystując wynik „Mobilizacji” kości akcji (symbol hełmu), co uważa się za wykonanie akcji, lub zagrywając kartę Wydarzenia, która pozwala na umieszczenie  nowych jednostek."/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Podczas fazy Rozpatrywania akcji gracze mogą wprowadzać do gry nowe jednostki armii i dowódców. Mogą to robić na dwa sposoby: wykorzystując wynik „Mobilizacji” kości akcji (symbol hełmu), co uważa się za wykonanie akcji, lub zagrywając kartę Wydarzenia, która pozwala na umieszczenie  nowych jednostek."/>
                 <para/>
                 <ITEXT CH="Jeśli gracz wprowadza do gry posiłki, wykorzystując wynik „Mobilizacji” kości akcji, nowe jednostki muszą należeć do Narodu znajdującego się w „stanie wojny” (patrz: dalsza część instrukcji)."/>
                 <para/>
-                <para/>
                 <ITEXT CH="Wykorzystując wynik „Mobilizacji” kości akcji, gracz może wprowadzić do gry następujące figurki:"/>
                 <para/>
-                <ITEXT CH="— dwie regularne jednostki, ALBO"/>
-                <para/>
-                <ITEXT CH="— dwóch dowódców/Nazgûle, ALBO"/>
-                <para/>
-                <ITEXT CH="— jedną regularną jednostkę i jednego dowódcę/Nazgûla,"/>
-                <para/>
-                <ITEXT CH="ALBO"/>
-                <para/>
-                <ITEXT CH="— jedną elitarną jednostkę."/>
-                <para/>
-                <para/>
+                <ITEXT CH="dwie regularne jednostki, ALBO"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="dwóch dowódców/Nazgûle, ALBO"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="jedną regularną jednostkę i jednego dowódcę/Nazgûla, ALBO"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="jedną elitarną jednostkę."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="Jeśli karty Wydarzeń pozwalają graczowi umieścić wojska w konkretnym regionie, jednostki mogą  być umieszczone nawet, jeśli dany Naród nie znajduje się jeszcze w „stanie wojny”. Jednostki nigdy nie mogą zostać umieszczone w regionie z wroga armią lub znacznikiem kontroli wroga. "/>
                 <para/>
-                <ITEXT CH="Wszystkie nowo rekrutowane figurki (jednostki i dowódców) gracz pobiera z dostępnych dla siebie posiłków. Gracz może je zrekrutować jedynie w wiosce, mieście lub twierdzy Narodu, do którego przynależą. Czasem karty Wydarzeń mogą jednak umieszczać jednostki w regionach nie zawierających osad. "/>
+                <ITEXT CH="Wszystkie nowo rekrutowane figurki (jednostki i dowódców) gracz pobiera z dostępnych dla siebie posiłków. Gracz może je zrekrutować jedynie w "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="wiosce"/>
+                <ITEXT CH=", "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="mieście"/>
+                <ITEXT CH=" lub "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="twierdzy"/>
+                <ITEXT CH=" Narodu, do którego przynależą. Czasem karty Wydarzeń mogą jednak umieszczać jednostki w regionach nie zawierających osad. "/>
                 <para/>
-                <ITEXT CH="Gracz nigdy nie może rekrutować ani umieszczać jednostek w oblężonej przez wroga twierdzy."/>
+                <ITEXT CH="Gracz nigdy nie może rekrutować ani umieszczać jednostek w "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="oblężonej"/>
+                <ITEXT CH=" przez wroga twierdzy."/>
                 <para/>
                 <ITEXT CH="Kiedy gracz wprowadza do gry dwie regularne jednostki lub dwóch dowódców albo kombinację obu tych figurek, wykorzystując wynik „Mobilizacji” kości akcji, figurki te mogą należeć do dwóch różnych Narodów – o ile oba te Narody znajdują się w „stanie wojny&quot;, a każda z figurek zostanie umieszczona w wiosce, mieście lub twierdzy należącej do odpowiedniego Narodu."/>
                 <para/>
-                <ITEXT CH="OGRANICZENIA REKRUTACJI"/>
-                <para/>
-                <ITEXT CH="— Posiłki są ograniczone liczbą dostępnych figurek. Oznacza to, że jeśli w grze znajdują się już wszystkie figurki danego rodzaju, gracz nie może już rekrutować kolejnych takich figurek. Jednostki Cienia i Nazgûle, które zostaną usunięte z gry jako straty, wracają do puli dostępnych posiłków (co pozwala na niemal nieustanne rekrutowanie nowych wojsk). "/>
+                <ITEXT CH="Posiłki są ograniczone liczbą dostępnych figurek. Oznacza to, że jeśli w grze znajdują się już wszystkie figurki danego rodzaju, gracz nie może już rekrutować kolejnych takich figurek. Jednostki Cienia i Nazgûle, które zostaną usunięte z gry jako straty, wracają do puli dostępnych posiłków (co pozwala na niemal nieustanne rekrutowanie nowych wojsk). "/>
                 <para/>
                 <ITEXT CH="Zwykłe Nazgûle są rekrutowane zawsze w twierdzach Narodu Saurona. "/>
                 <para/>
-                <para/>
                 <ITEXT CH="RUCH ARMII"/>
-                <para/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CH="PORUSZANIE ARMII"/>
-                <para/>
-                <ITEXT CH="Podczas fazy Rozpatrywania akcji gracze mogą przesuwać armie na planszy. Mogą to robi na jeden z trzech sposobów: wykorzystując wynik „Armii” kości akcji, wykorzystując wynik „Postaci” kości akcji (jeśli w poruszającej się armii znajduje się dowódca lub postać) albo zagrywając kartę Wydarzenia, która pozwala na poruszanie armiami."/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Podczas fazy Rozpatrywania akcji gracze mogą przesuwać armie na planszy. Mogą to robi na jeden z trzech sposobów: wykorzystując wynik „Armii” kości akcji, wykorzystując wynik „Postaci” kości akcji (jeśli w poruszającej się armii znajduje się dowódca lub postać) albo zagrywając kartę Wydarzenia, która pozwala na poruszanie armiami."/>
                 <para/>
                 <ITEXT CH="Gracz wykorzystujący wynik „Armii” kości akcji, może przesunąć dwie różne armie, nie może jednak przesunąć dwa razy tej samej armii."/>
                 <para/>
-                <ITEXT CH="Gracz wykorzystujący wynik „Postaci” kości akcji, może przesunąć jedną armię zawierającą przynajmniej jednego dowódcę lub postać."/>
+                <ITEXT CH="Gracz wykorzystujący wynik „Postaci” kości akcji, może przesunąć jedną armię "/>
+                <ITEXT CPARENT="kursywa+pogrubienie" CH="zawierającą przynajmniej jednego dowódcę lub postać"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="Aby poruszyć się armią, gracz przesuwa po prostu wybrane jednostki do sąsiedniego regionu."/>
                 <para/>
                 <ITEXT CH="Dzielenie armii"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Gracz nie musi przesuwać wszystkich jednostek wchodzących w skład danej armii. Jeśli gracz przesunie do sąsiedniego regionu tylko część jednostek, podzieli ją na dwie różne armie."/>
                 <para/>
                 <ITEXT CH="Dowódcy Wolnych Ludów nigdy nie mogą się znajdować w regionie, w którym nie ma też przyjaznych jednostek, więc jeśli poruszająca się armia całkowicie opuści dany region, wszyscy znajdujący się tam dowódcy muszą za nią podążyć. Jeśli armia zostanie podzielona, dowódcy mogą pozostać w danym regionie lub poruszyć się wraz z maszerującą armią. Jeśli gracz wykorzystuje wynik „Postaci” kości akcji, aby wykonać swój ruch, a następnie dzieli armię, przynajmniej jeden z dowódców musi towarzyszyć poruszającym się jednostkom."/>
@@ -1250,133 +1263,145 @@
                 <ITEXT CH="Należy pamiętać, że postacie (Towarzysze i Sługi) oraz Nazgûle nie muszą przesuwać się z armią, której do tej pory były częścią, i mogą pozostawać w danym regionie same – chyba że gracz wykorzystał je do wykonania ruchu wynikiem „Postaci” kości akcji."/>
                 <para/>
                 <ITEXT CH="Ograniczenia ruchu"/>
-                <para/>
-                <ITEXT CH="— Gracz wybiera, którymi jednostkami (a także dowódcami i postaciami) zamierza się poruszyć. W ramach jednej akcji każda figurka może się poruszyć tylko raz (dotyczy to również ruchu wynikającego z karty Wydarzenia, chyba że treść karty wskazuje na co innego). Gracz nie może więc jedną akcją  przesunąć armii do regionu, w którym znajduje się już przyjazna armia (łącząc obie armie w jedną), a następnie poruszyć tę armię drugim ruchem wynikającym z tej akcji, gdyż w ten sposób figurki z pierwszej armii zostałyby poruszone dwukrotnie."/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
+                <ITEXT CH="Gracz wybiera, którymi jednostkami (a także dowódcami i postaciami) zamierza się poruszyć. W ramach jednej akcji każda figurka może się poruszyć tylko raz (dotyczy to również ruchu wynikającego z karty Wydarzenia, chyba że treść karty wskazuje na co innego). Gracz nie może więc jedną akcją  przesunąć armii do regionu, w którym znajduje się już przyjazna armia (łącząc obie armie w jedną), a następnie poruszyć tę armię drugim ruchem wynikającym z tej akcji, gdyż w ten sposób figurki z pierwszej armii zostałyby poruszone dwukrotnie."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="Dopóki gracz nie wykona obu wynikających z tej akcji ruchów, obie te armie powinny być trzymane osobno."/>
                 <para/>
-                <ITEXT CH="— Region, do którego gracz przesuwa swoją armię, musi być wolny (patrz akapit „Wolne regiony” na stronie 10) albo posiadać kontrolowaną przez wroga osadę, w której nie ma żadnych wrogich armii. Takie regiony uważa się za „wolne dla celów ruchu armii”."/>
-                <para/>
-                <ITEXT CH="— Jeśli w regionie znajdują się jakieś wrogie jednostki, gracz nie może tam przesunąć swojej armii, ale może zaatakować wrogie jednostki."/>
-                <para/>
-                <ITEXT CH="— Przesuwając armię do danego regionu, gracz nie może przekroczyć ograniczenia wielkości armii wynoszącego 10 jednostek."/>
-                <para/>
-                <ITEXT CH="— Jeśli w skład poruszającej się armii wchodzą jednostki z Narodu, który nie znajduje się jeszcze w „stanie wojny”, nie mogą one wkroczyć do regionu, który znajduje się w obrębie granic innego Narodu (nawet przyjaznego)."/>
-                <para/>
-                <ITEXT CH="— Gracz nigdy nie może przesunąć armii do sąsiedniego regionu, z którym graniczy tylko czarną linią (oznaczającą nieprzekraczalny teren). Podobne ograniczenie dotyczy postaci i Drużyny Pierścienia."/>
-                <para/>
-                <para/>
+                <ITEXT CH="Region, do którego gracz przesuwa swoją armię, musi być wolny (patrz akapit „Wolne regiony” na stronie 10) albo posiadać kontrolowaną przez wroga osadę, w której nie ma żadnych wrogich armii. Takie regiony uważa się za „wolne dla celów ruchu armii”."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Jeśli w regionie znajdują się jakieś wrogie jednostki, gracz nie może tam przesunąć swojej armii, ale może zaatakować wrogie jednostki."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Przesuwając armię do danego regionu, gracz nie może przekroczyć ograniczenia wielkości armii wynoszącego 10 jednostek."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Jeśli w skład poruszającej się armii wchodzą jednostki z Narodu, który nie znajduje się jeszcze w „stanie wojny”, nie mogą one wkroczyć do regionu, który znajduje się w obrębie granic innego Narodu (nawet przyjaznego)."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Gracz nigdy nie może przesunąć armii do sąsiedniego regionu, z którym graniczy tylko czarną linią (oznaczającą nieprzekraczalny teren). Podobne ograniczenie dotyczy postaci i Drużyny Pierścienia."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="RUCH POSTACI"/>
-                <para/>
-                <ITEXT CH="Gracze poruszają postacie po planszy podczas fazy Rozpatrywania akcji, wykorzystując wynik „Postaci” kości akcji (symbol miecza) albo zagrywając kartę Wydarzenia, która pozwala im poruszać dane postacie."/>
-                <para/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Gracze poruszają postacie po planszy podczas fazy Rozpatrywania akcji, wykorzystując wynik „Postaci” kości akcji (symbol miecza) albo zagrywając kartę Wydarzenia, która pozwala im poruszać dane postacie."/>
                 <para/>
                 <ITEXT CH="Poruszanie Towarzyszy"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Kiedy gracz Wolnych Ludów wykorzystuje wynik „Postaci” kości akcji, aby poruszyć swoje postacie, każdy Towarzysz na mapie może zostać przesunięty o tyle (lub mniej) regionów, ile wynosi jego poziom (patrz dalsza część instrukcji)."/>
                 <para/>
                 <ITEXT CH="Grupa Towarzyszy znajdująca się w tym samym regionie może przesunąć się razem do innego regionu – w takim wypadku cała grupa może przesunąć się o tyle (lub mniej) regionów, ile wynosi najwyższy poziom postaci w danej grupie. Postacie z poziomem ∞ nie są traktowane jako postacie o najwyższym poziomie, gdy poruszają się w grupie. "/>
                 <para/>
-                <para/>
                 <ITEXT CH="Ruch Towarzyszy podlega następującym zasadom:"/>
                 <para/>
-                <ITEXT CH="— Wrogie armie nie mają żadnego wpływu na ruch Towarzyszy. Kiedy poruszają się oni samotnie lub wraz z innymi postaciami, mogą przybywać do lub opuszczać regiony, w których znajdują się jednostki Cienia."/>
-                <para/>
-                <ITEXT CH="— Nigdy nie mogą przybyć do ani opuścić regionu, w którym znajduje się przyjazna twierdza oblężona przez wrogą armię."/>
-                <para/>
-                <ITEXT CH="— Nie mogą przekraczać niedostępnego terenu (czarne granice)."/>
-                <para/>
+                <ITEXT CH="Wrogie armie nie mają żadnego wpływu na ruch Towarzyszy. Kiedy poruszają się oni samotnie lub wraz z innymi postaciami, mogą przybywać do lub opuszczać regiony, w których znajdują się jednostki Cienia."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Nigdy nie mogą przybyć do ani opuścić regionu, w którym znajduje się przyjazna twierdza oblężona przez wrogą armię."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Nie mogą przekraczać niedostępnego terenu (czarne granice)."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="Postacie z poziomem ∞ mogą podczas jednego ruchu przenieść się w dowolne miejsce na mapie. "/>
                 <para/>
                 <ITEXT CH="Jeśli poziom postaci wynosi 0, nie może się poruszyć, nawet, jeśli stanowiłaby część armii."/>
                 <para/>
-                <para/>
                 <ITEXT CH="ROZSTRZYGANIE BITEW"/>
-                <para/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CH="ATAKOWANIE ARMIĄ"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Podczas fazy Rozpatrywania akcji gracze mogą atakować wrogie armie, korzystając z własnych armii. Mogą to zrobić na jeden z trzech sposobów: wykorzystując wynik „Armii” kości akcji, wykorzystując wynik „Postaci” kości akcji (jeśli w poruszającej się armii znajduje się dowódca lub postać) albo zagrywając kartę Wydarzenia, która pozwala na przeprowadzenie ataku armią."/>
                 <para/>
-                <ITEXT CH="Podczas fazy Rozpatrywania akcji gracze mogą atakować wrogie armie, korzystając z własnych armii. Mogą to zrobić na jeden z trzech sposobów: wykorzystując wynik „Armii” kości akcji, wykorzystując wynik „Postaci” kości akcji (jeśli w poruszającej się armii znajduje się dowódca lub postać) albo zagrywając kartę Wydarzenia, która pozwala na przeprowadzenie ataku armią."/>
-                <para/>
-                <ITEXT CH="Bitwę mogą rozpocząć tylko armie należące do Narodu znajdującego się w „stanie wojny”."/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Bitwę mogą rozpocząć"/>
+                <ITEXT CH=" tylko armie należące do Narodu znajdującego się w „stanie wojny”."/>
                 <para/>
                 <ITEXT CH="Gracz może wykorzystać wynik „Armii” kości akcji lub wynik „Postaci” kości akcji (jeśli w poruszającej się armii znajduje się dowódca lub postać), aby:"/>
                 <para/>
-                <ITEXT CH="— Zaatakować wrogą armię w sąsiednim regionie."/>
-                <para/>
-                <ITEXT CH="— Rozpocząć oblężenie lub przeprowadzić wypad wojsk oblężonych przeciwko armii znajdującej się w tym samym regionie."/>
-                <para/>
-                <ITEXT CH="Należy zwrócić uwagę, że w przeciwieństwie do ruchu, gdzie gracz mógł poruszać się dwoma armiami, wynik „Armii” kości akcji może zostać wykorzystany, aby wywołać tylko jedną bitwę."/>
+                <ITEXT CH="Zaatakować wrogą armię w sąsiednim regionie."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Rozpocząć "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="oblężenie"/>
+                <ITEXT CH=" lub przeprowadzić "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="wypad wojsk oblężonych"/>
+                <ITEXT CH=" przeciwko armii znajdującej się w tym samym regionie."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Należy zwrócić uwagę, że w przeciwieństwie do ruchu, gdzie gracz mógł poruszać się dwoma armiami, wynik „Armii” kości akcji może zostać wykorzystany, aby wywołać "/>
+                <ITEXT CPARENT="kursywa" CH="tylko jedną"/>
+                <ITEXT CH=" bitwę."/>
                 <para/>
                 <ITEXT CH="Gracz wykorzystujący wynik „Postaci” kości akcji, może zaatakować tylko armią zawierającą przynajmniej jednego dowódcę lub postać."/>
                 <para/>
                 <ITEXT CH="Uwaga: Kiedy gracz rozpocznie bitwę, nie przesuwa jeszcze jednostek, którymi atakuje, do regionu, który jest celem ataku. Zamiast tego na czas bitwy jego armia pozostaje w regionie, z którego rozpoczęła atak. Dopiero jeśli bitwa się zakończy, a atakujący gracz ją wygra, będzie mógł przesunąć swoje atakujące jednostki do regionu, w którym toczyła się bitwa."/>
-                <para/>
+                <para PARENT="uwaga red center"/>
                 <ITEXT CH="Niektóre karty i zdolności pozwalają ci zaatakować z regionu położonego dalej niż region sąsiadujący. Pamiętaj, że aby takie ataki były możliwe, musisz być w stanie (jeśli wygrasz) przesunąć się do atakowanego regionu, bez przeszkód ze strony wrogiej armii pomiędzy armią atakującą a atakowanym regionem:"/>
                 <para/>
-                <ITEXT CH="Przykład: armia Drzewca i jego Entów próbuje zaatakować Orthank z Fangornu, korzystając z karty Wydarzenia „Forsownego Marszu”. Ale ponieważ armia Cienia znajduje się w Brodach na Isenie, to ten atak nie jest możliwy, ponieważ armia Drzewca, gdyby zwyciężyła, nie byłaby w stanie przesunąć się do Orthanku bez przeszkód. Najpierw będzie musiała zaatakować Brody na Isenie."/>
-                <para/>
+                <ITEXT CPARENT="kursywa+pogrubienie" CH="Przykład"/>
+                <ITEXT CH=": armia Drzewca i jego Entów próbuje zaatakować Orthank z Fangornu, korzystając z karty Wydarzenia „Forsownego Marszu”. Ale ponieważ armia Cienia znajduje się w Brodach na Isenie, to ten atak nie jest możliwy, ponieważ armia Drzewca, gdyby zwyciężyła, nie byłaby w stanie przesunąć się do Orthanku bez przeszkód. Najpierw będzie musiała zaatakować Brody na Isenie."/>
+                <para PARENT="przykład"/>
                 <ITEXT CH="Dzielenie atakującej armii"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Gracz nie musi atakować wszystkimi figurkami wchodzącymi w skład armii, która została wybrana, aby wydać przeciwnikowi bitwę."/>
                 <para/>
-                <ITEXT CH="Kiedy gracz zamierza zaatakować przeciwnika, może podzielić swoją armię. W takim wypadku rozdziela figurki w danym regionie na dwie armie – atakującą i drugą, nazywaną tylną strażą, która nie weźmie udziału w bitwie."/>
+                <ITEXT CH="Kiedy gracz zamierza zaatakować przeciwnika, może podzielić swoją armię. W takim wypadku rozdziela figurki w danym regionie na dwie armie – atakującą i drugą, nazywaną "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="tylną strażą"/>
+                <ITEXT CH=", która nie weźmie udziału w bitwie."/>
                 <para/>
                 <ITEXT CH="W każdej z nowo powstałych armii musi się znajdować przynajmniej jedna jednostka, zaś dowódcy, Towarzysze i Sługi mogą zostać podzieleni pomiędzy armiami wedle woli gracza."/>
                 <para/>
                 <ITEXT CH="Uwaga: Jeśli gracz atakuje, wykorzystując wynik „Postaci” kości akcji, w nowo powstałej atakującej armii musi się znaleźć przynajmniej jeden dowódca lub jedna postać."/>
-                <para/>
+                <para PARENT="uwaga red center"/>
                 <ITEXT CH="Armia, która pozostała w regionie jako tylna straż, nie ma żadnego wpływu na przebieg bitwy. Nie może stać się celem efektów kart Bitwy, wchodzące w jej skład figurki nie mogą zostać usunięte jako straty, nie może też wkroczyć do spornego regionu, kiedy bitwa zakończy się zwycięstwem gracza."/>
                 <para/>
                 <ITEXT CH="Jeśli w atakującej armii znajduje się jedna lub więcej figurek należących do Narodu, który nie znajduje się w „stanie wojny”, gracz musi podzielić armię (i pozostawić takie figurki jako tylną straż)."/>
                 <para/>
                 <ITEXT CH="Należy zwrócić uwagę, że w bitwie będą brać udział wszystkie broniące się jednostki, a także dowódcy i postacie."/>
                 <para/>
-                <para/>
                 <ITEXT CH="Siła armii i zdolności przywódcze"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Siłę armii i zdolności przywódcze armii biorących udział w bitwie ustala się na podstawie wszystkich atakujących i broniących się jednostek, dowódców i postaci."/>
                 <para/>
-                <ITEXT CH="— Siła armii jest równa liczbie jednostek wchodzących w skład armii (regularnych i elitarnych). Siła armii wskazuje, iloma standardowymi kośćmi bitwy gracz będzie rzucał podczas rzutu bitwy. Gracz może rzucać maksymalnie pięcioma standardowymi kośćmi bitwy. Oznacza to, że każda jednostka w armii powyżej piątej nie zapewnia graczowi kolejnej kości podczas rzutu. Jednakże armia, która posiada więcej niż pięć jednostek, zazwyczaj potrafi utrzymać swoją pełną siłę przez dłuższy czas."/>
-                <para/>
-                <para/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Siła armii"/>
+                <ITEXT CH=" jest równa liczbie jednostek wchodzących w skład armii (regularnych i elitarnych). Siła armii wskazuje, iloma standardowymi kośćmi bitwy gracz będzie rzucał podczas "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="rzutu bitwy"/>
+                <ITEXT CH=". Gracz może rzucać maksymalnie pięcioma standardowymi kośćmi bitwy. Oznacza to, że każda jednostka w armii powyżej piątej nie zapewnia graczowi kolejnej kości podczas rzutu. Jednakże armia, która posiada więcej niż pięć jednostek, zazwyczaj potrafi utrzymać swoją pełną siłę przez dłuższy czas."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="Standardowa kość bitwy posiada następujące ścianki:"/>
                 <para/>
-                <ITEXT CH="- 2x Tarcza"/>
-                <para/>
-                <ITEXT CH="- 3x Czaszka"/>
-                <para/>
-                <ITEXT CH="- 1x Zagraj kartę"/>
-                <para/>
-                <para/>
-                <ITEXT CH="— Zdolności przywódcze armii to suma liczby dowódców (lub Nazgûli) i wartości zdolności przywódczych postaci (wskazanych na kartach Postaci) biorących udział w bitwie. Zdolności przywódcze wskazują, iloma kośćmi gracz może wykonać ponowny rzut podczas przerzutu. Ponownie, gracz może przerzucić maksymalnie pięć kości."/>
-                <para/>
-                <para/>
+                <ITEXT CH="2x Tarcza"/>
+                <para PARENT="Lista wypunktowana (-1)"/>
+                <ITEXT CH="3x Czaszka"/>
+                <para PARENT="Lista wypunktowana (-1)"/>
+                <ITEXT CH="1x Zagraj kartę"/>
+                <para PARENT="Lista wypunktowana (-1)"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Zdolności przywódcze"/>
+                <ITEXT CH=" armii to suma liczby dowódców (lub Nazgûli) i wartości zdolności przywódczych postaci (wskazanych na kartach Postaci) biorących udział w bitwie. Zdolności przywódcze wskazują, iloma kośćmi gracz może wykonać ponowny rzut podczas "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="przerzutu"/>
+                <ITEXT CH=". Ponownie, gracz może przerzucić maksymalnie pięć kości."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="ROZSTRZYGANIE BITWY"/>
-                <para/>
-                <para/>
+                <para PARENT="Box tytuł -1"/>
                 <ITEXT CH="Bitwę rozstrzyga się w serii rund bitwy. Podczas każdej rundy obaj gracze postępują zgodnie z poniższymi instrukcjami:"/>
                 <para/>
-                <ITEXT CH="1) Rzucają kośćmi bitwy"/>
-                <para/>
-                <ITEXT CH="2) Wykonują przerzut dowódców"/>
-                <para/>
-                <ITEXT CH="3) Zagrywają karty Bitwy."/>
-                <para/>
-                <ITEXT CH="4) Usuwają straty."/>
-                <para/>
-                <ITEXT CH="5) Decydują, czy przerwać atak lub przeprowadzić odwrót."/>
-                <para/>
-                <para/>
+                <ITEXT CH="Rzucają kośćmi bitwy"/>
+                <para PARENT="Lista numerowana"/>
+                <ITEXT CH="Wykonują przerzut dowódców"/>
+                <para PARENT="Lista numerowana"/>
+                <ITEXT CH="Zagrywają "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="karty Bitwy"/>
+                <ITEXT CH="."/>
+                <para PARENT="Lista numerowana"/>
+                <ITEXT CH="Usuwają straty."/>
+                <para PARENT="Lista numerowana"/>
+                <ITEXT CH="Decydują, czy "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="przerwać atak"/>
+                <ITEXT CH=" lub "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="przeprowadzić odwrót"/>
+                <ITEXT CH="."/>
+                <para PARENT="Lista numerowana"/>
                 <ITEXT CH="Rzut kośćmi bitwy"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Podczas tego kroku gracze rzucają jedną standardową kością bitwy na każdą elitarną lub regularną jednostkę w swojej armii. Nigdy nie możesz rzucić więcej niż 5 standardowymi kośćmi bitwy. Wyniki na kościach będą wpływać na wynik bitwy, więc pamiętaj, aby zachować je do czasu rozpatrzenia rundy bitwy."/>
                 <para/>
                 <ITEXT CH="Przerzut dowódców"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Zaczynając od atakującego, gracze mogą przerzucić tyle kości ile stanowią zdolności przywódcze jego armii. Wszystkie przerzuty wykonywane są jednocześnie, a żadnej z kości nie można przerzucić więcej niż raz. "/>
                 <para/>
                 <ITEXT CH="Zagrywanie karty Bitwy"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Za każdy wynik „zagraj kartę” uzyskany na kości bitwy, gracze mogą zagrać kartę Bitwy, aby uzyskać różne efekty opisane w dolnej połowie każdej karty Wydarzenia. Kiedy karty są zagrywane jako karty Bitwy, pod uwagę brany jest tylko efekt dotyczący bitwy."/>
                 <para/>
                 <ITEXT CH="Zaczynając od atakującego, obaj gracze mogą wydać po jednym wyniku „zagraj kartę”, aby zagrać i rozpatrzyć jedną kartę ze swojej ręki, a następnie karta Bitwy zostaje odrzucona. Efekty kart Bitwy obowiązują przez całą rundę (chyba że napisano inaczej). Niektóre karty Bitwy, jeśli zostało to określone, mogą być zagrywane w różnych momentach."/>
@@ -1384,35 +1409,33 @@
                 <ITEXT CH="Następnie gracze mogą zagrywać karty naprzemiennie; gracz może zdecydować się zrezygnować z możliwości zagrania karty, nawet jeśli pozostał mu do wykorzystania wynik „zagraj kartę”. Ta faza kończy się, gdy nie ma już wyniku „zagraj kartę” lub gdy obaj gracze zdecydują się spasować."/>
                 <para/>
                 <ITEXT CH="Usuwanie strat"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Każdy gracz ponosi jedną stratę za każdy wynik „Czaszki” uzyskany przez drugiego gracza pomniejszony o liczbę uzyskanych przez niego wyników „Tarczy”. Wyniki „Czaszki” i „Tarczy” można uzyskać za pomocą kości, ale także kart Bitwy i zdolności postaci."/>
-                <para/>
                 <para/>
                 <ITEXT CH="Najpierw atakujący decyduje, w jaki sposób usunąć swoje straty. Straty ustala się w następujący sposób:"/>
                 <para/>
                 <ITEXT CH="Za każde trafienie uzyskane przez przeciwnika:"/>
                 <para/>
-                <ITEXT CH="— usuwa się jedna regularną jednostkę, ALBO"/>
-                <para/>
-                <ITEXT CH="— zamienia się jedną elitarną jednostkę na jedną regularną jednostkę."/>
-                <para/>
+                <ITEXT CH="usuwa się jedna regularną jednostkę, ALBO"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="zamienia się jedną elitarną jednostkę na jedną regularną jednostkę."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="Za każde dwa trafienia gracz może więc usunąć dwie figurki regularnych jednostek lub po prostu jedną jednostkę elitarną."/>
                 <para/>
-                <ITEXT CH="Przykład: Gracz otrzymał dwa trafienia. Albo może usunąć dwie jednostki regularne, albo zamienić dwie jednostki elitarne w dwie jednostki regularne, albo usunąć jedną jednostkę elitarną."/>
-                <para/>
+                <ITEXT CPARENT="kursywa+pogrubienie" CH="Przykład"/>
+                <ITEXT CH=": Gracz otrzymał dwa trafienia. Albo może usunąć dwie jednostki regularne, albo zamienić dwie jednostki elitarne w dwie jednostki regularne, albo usunąć jedną jednostkę elitarną."/>
+                <para PARENT="przykład"/>
                 <ITEXT CH="Kiedy gracz zastępuje jednostkę elitarną jednostką regularną, figurkę tej jednostki może wziąć ze stosu już poniesionych strat (jeśli jakieś poniósł). Jeśli nie może tego zrobić, jednostkę tę bierze z dostępnych dla siebie posiłków (jeśli jakieś posiada). Zamienione w ten sposób jednostki elitarne gracza Wolnych Ludów umieszcza się pośród strat. Jeśli gracz nie może jej zastąpić regularną jednostką ze stosu strat lub z posiłków (bo takowych nie posiada), elitarna jednostka zostaje wyeliminowana bez dodatkowego efektu."/>
                 <para/>
-                <para/>
-                <ITEXT CH="Straty Wolnych Ludów i Cienia"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Straty Wolnych Ludów i Cienia"/>
                 <para/>
                 <ITEXT CH="Tak jak opisano to powyżej, gracz Wolnych Ludów odkłada jednostki usunięte w ramach strat na bok – uważa się, że znalazły się one poza grą. Z tego względu jest ważne, aby gracz Wolnych Ludów nie umieszczał swoich strat w tym samym miejscu, w którym znajdują się jego posiłki."/>
                 <para/>
                 <ITEXT CH="Gracz Cienia nie ma tego problemu, jego jednostki nigdy nie mogą się znaleźć poza grą. Taki gracz może więc odkładać swoje straty w tym samym miejscu, w którym znajdują się jego posiłki."/>
                 <para/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Eliminacja dowódców i postaci"/>
                 <para/>
-                <ITEXT CH="Eliminacja dowódców i postaci"/>
-                <para/>
-                <ITEXT CH="Jeśli wszystkie jednostki wchodzące w skład armii zostały wyeliminowane podczas bitwy, wszyscy dowódcy (w tym postacie), którzy byli częścią tej armii, również zostają wyeliminowani z gry."/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Jeśli wszystkie jednostki wchodzące w skład armii zostały wyeliminowane podczas bitwy, wszyscy dowódcy (w tym postacie), którzy byli częścią tej armii, również zostają wyeliminowani z gry."/>
                 <para/>
                 <ITEXT CH="Podobnie jak w przypadku strat w jednostkach, dowódcy Wolnych Ludów zostają trwale usunięci poza grę, natomiast Nazgûle mogą wrócić do gry jako posiłki. Jeśli Nazgûl jest jednocześnie postacią, jego karta postaci wraca z powrotem na rękę gracza Cienia. "/>
                 <para/>
@@ -1420,42 +1443,44 @@
                 <para/>
                 <ITEXT CH="Należy zwrócić uwagę, że postacie znajdujące się w regionie, w którym nie ma jednostek przyjaznej armii, nigdy nie zostaną wciągnięte w bitwę (mogą przebywać w tym regionie nawet, jeśli zawiera on wrogie jednostki). Postacie są podatne na eliminację tylko, gdy towarzyszą przyjaznej armii w trakcie bitwy, dlatego ich usunięcie może okazać się bardzo trudne. Jedyny wyjątek od tej zasady stanowią efekty kilku kart Wydarzeń."/>
                 <para/>
-                <para/>
                 <ITEXT CH="Przerywanie ataku lub przeprowadzanie odwrotu"/>
+                <para PARENT="Box tytuł -2"/>
+                <ITEXT CH="Pod koniec każdej rundy bitwy atakujący gracz ma możliwość "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="przerwania ataku"/>
+                <ITEXT CH="."/>
                 <para/>
-                <ITEXT CH="Pod koniec każdej rundy bitwy atakujący gracz ma możliwość przerwania ataku."/>
-                <para/>
-                <ITEXT CH="Jeśli atakujący zdecyduje się kontynuować bitwę, obrońca otrzymuje możliwość przeprowadzenia odwrotu. Jeśli obrońca nie zdecyduje się na odwrót, rozpoczyna się kolejna runda bitwy."/>
+                <ITEXT CH="Jeśli atakujący zdecyduje się kontynuować bitwę, obrońca otrzymuje możliwość "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="przeprowadzenia odwrotu"/>
+                <ITEXT CH=". Jeśli obrońca nie zdecyduje się na odwrót, rozpoczyna się kolejna runda bitwy."/>
                 <para/>
                 <ITEXT CH="Jeśli atakująca armia przerwie atak, jednostki, które przetrwały, pozostają tam, gdzie znajdowały się w momencie rozpoczęcia bitwy."/>
                 <para/>
                 <ITEXT CH="Jeśli obrońca zdecyduje się przeprowadzić odwrót, jego armia musi się natychmiast wycofać na sąsiedni wolny region. Jeśli nie ma takiego regionu, obrońca nie może zdecydować się na odwrót."/>
                 <para/>
-                <ITEXT CH="Szczególne wyjątki:"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Szczególne wyjątki:"/>
                 <para/>
-                <ITEXT CH="— Armia broniąca się w regionie zawierającym przyjazną twierdzę może na początku dowolnej rundy bitwy wycofać się do samej twierdzy. Taki ruch nazywa się „wycofaniem się do obleganej twierdzy” (patrz poniżej)."/>
-                <para/>
-                <ITEXT CH="— Oblężona armia nie może przeprowadzić odwrotu."/>
-                <para/>
-                <ITEXT CH="— Jeśli w skład przeprowadzającej odwrót armii wchodzi postać o poziomie 0, postać ta pozostaje na tym regionie."/>
-                <para/>
-                <para/>
+                <ITEXT CH="Armia broniąca się w regionie zawierającym przyjazną twierdzę może na początku dowolnej rundy bitwy wycofać się do samej twierdzy. Taki ruch nazywa się „wycofaniem się do obleganej twierdzy” (patrz poniżej)."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Oblężona armia nie może przeprowadzić odwrotu."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Jeśli w skład przeprowadzającej odwrót armii wchodzi postać o poziomie 0, postać ta pozostaje na tym regionie."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="Koniec bitwy"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Bitwa kończy się, kiedy atakujący przerwie atak, obrońca przeprowadzi odwrót albo gdy jedna lub obie armie zostaną całkowicie zniszczone."/>
                 <para/>
                 <ITEXT CH="Jeśli broniąca się armia zostanie wyeliminowana lub przeprowadzi odwrót, atakujący musi natychmiast przesunąć wszystkie jednostki/postacie/dowódców/Nazgûle biorące  udział w bitwie do regionu, na którym toczyła się bitwa. "/>
                 <para/>
-                <ITEXT CH="Jeśli atakująca armia wkroczy do regionu, w którym toczyła się bitwa, a w regionie tym znajduje się wroga twierdza, a w twierdzy znajdują się wrogie jednostki, twierdza ta zostaje oblężona."/>
-                <para/>
+                <ITEXT CH="Jeśli atakująca armia wkroczy do regionu, w którym toczyła się bitwa, a w regionie tym znajduje się wroga twierdza, "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="a w twierdzy znajdują się wrogie jednostki"/>
+                <ITEXT CH=", twierdza ta zostaje "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="oblężona"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="Gracz kontrolujący armię, która po zakończeniu bitwy będzie znajdować się w spornym regionie, zostaje ogłoszony zwycięzcą (co może mieć znaczenie przy uruchamianiu określonych zdolności). Jeśli po bitwie w regionie nadal toczy się bitwa (w przypadku oblężenia), nie ma zwycięzcy. Jeśli obrońca zdecyduje się wycofać, co spowoduje  rozpoczęcie oblężenia (patrz akapit „Atakowanie twierdzy”), nie ma zwycięzcy, ponieważ nie doszło do żadnej bitwy."/>
                 <para/>
-                <para/>
-                <ITEXT CH="FORTYFIKACJE, MIASTA,"/>
-                <para/>
-                <ITEXT CH="TWIERDZE I OBLĘŻENIA"/>
-                <para/>
+                <ITEXT CH="FORTYFIKACJE, MIASTA, TWIERDZE I OBLĘŻENIA"/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CH="Podczas wielu bitew opisanych we „Władcy Pierścieni” armie broniły się w lub próbowały zdobyć fortece, brody, miasta i tym podobne miejsca. Dlatego też fortyfikacje, miasta i twierdze są jednym z kluczowych elementów Wojny o Pierścień. Poniżej znajdują się zasady odnoszące się do tego aspektu gry."/>
                 <para/>
                 <ITEXT CH="ATAKOWANIE MIAST I FORTYFIKACJI"/>
@@ -1473,7 +1498,6 @@
                 <ITEXT CH="- 1x Czaszka"/>
                 <para/>
                 <ITEXT CH="- 1x 2 Czaszki"/>
-                <para/>
                 <para/>
                 <ITEXT CH="Podczas późniejszych rund bitwy gracze stosują się do normalnych zasad."/>
                 <para/>
@@ -1571,10 +1595,10 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="140.00062992126" YPOS="11564.5680944882" OwnPage="25" ItemID="2014896506" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2014888522" BACKITEM="2012197386"/>
-        <PAGEOBJECT XPOS="735.276220472441" YPOS="11564.5680944882" OwnPage="26" ItemID="2014888522" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892157082" BACKITEM="2014896506"/>
-        <PAGEOBJECT XPOS="140.00062992126" YPOS="12446.4575433071" OwnPage="27" ItemID="1892157082" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892182938" BACKITEM="2014888522"/>
-        <PAGEOBJECT XPOS="735.276220472441" YPOS="12446.4575433071" OwnPage="28" ItemID="1892182938" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892185322" BACKITEM="1892157082"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="11574.5697637795" OwnPage="25" ItemID="2014896506" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488196" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2014888522" BACKITEM="2012197386"/>
+        <PAGEOBJECT XPOS="735.276220472441" YPOS="11574.5697637795" OwnPage="26" ItemID="2014888522" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488196" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892157082" BACKITEM="2014896506"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="12456.4592125984" OwnPage="27" ItemID="1892157082" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488198" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892182938" BACKITEM="2014888522"/>
+        <PAGEOBJECT XPOS="735.276220472441" YPOS="12456.4592125984" OwnPage="28" ItemID="1892182938" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488198" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892185322" BACKITEM="1892157082"/>
         <PAGEOBJECT XPOS="140.00062992126" YPOS="13328.346992126" OwnPage="29" ItemID="1892185322" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2015278906" BACKITEM="1892182938"/>
         <PAGEOBJECT XPOS="735.276220472441" YPOS="13328.346992126" OwnPage="30" ItemID="2015278906" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1892185322"/>
         <PAGEOBJECT XPOS="140.00062992126" YPOS="14210.2364409449" OwnPage="31" ItemID="2015268874" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2031495818" BACKITEM="-1">
@@ -2162,7 +2186,7 @@
                 <ITEXT CH="ELEMENTY GRY"/>
                 <para PARENT="Rozdział tytuł"/>
                 <ITEXT CH="LISTA ELEMENTÓW DO WARIANTU ULTIMATE REWORK"/>
-                <para PARENT="Box tytuł"/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CH="Poniżej znajduje się lista elementów, których będziesz potrzebował z gry podstawowej:"/>
                 <para/>
                 <ITEXT CH="1 plansza podzielona na dwie części"/>
