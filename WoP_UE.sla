@@ -69,7 +69,7 @@
         <STYLE NAME="kursywa+pogrubienie" PARENT="Default Paragraph Style" FONT="Times New Roman Bold Italic" FONTFEATURES="-clig,-liga" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
         <STYLE NAME="Lista wypunktowana" ALIGN="3" DIRECTION="0" LINESPMode="0" LINESP="11" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="4" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="— " Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONT="Times New Roman Regular" FONTSIZE="11" FONTFEATURES="-clig"/>
         <STYLE NAME="Lista wypunktowana (-1)" PARENT="Lista wypunktowana" LINESP="11" INDENT="14.1732283464567" NACH="4"/>
-        <STYLE NAME="Box tytuł 0" ALIGN="0" LINESP="15" NACH="10" MinWordTrack="1" FONT="Albertus MT Regular" FONTSIZE="15" FONTFEATURES="-clig,-liga" FEATURES="allcaps" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="14" wordTrack="1" LANGUAGE="pl"/>
+        <STYLE NAME="Box tytuł 0" ALIGN="0" LINESP="16" VOR="10" NACH="10" MinWordTrack="1" FONT="Albertus MT Regular" FONTSIZE="16" FONTFEATURES="-clig,-liga" FEATURES="allcaps" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="14" wordTrack="1" LANGUAGE="pl"/>
         <STYLE NAME="Box tytuł -1" PARENT="Box tytuł 0" LINESP="12" NACH="0" FONTSIZE="12" KERN="5"/>
         <STYLE NAME="Box tytuł -2" PARENT="Box tytuł 0" LINESP="10" VOR="5" NACH="0" FONT="Albertus MT Regular" FONTSIZE="12" FEATURES="outline" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="0"/>
         <STYLE NAME="Rozdział nr (center)" ALIGN="1" NACH="10" MinWordTrack="1" FONT="Albertus MT Regular" FONTSIZE="12" FONTFEATURES="-clig,-liga" FEATURES="allcaps" FCOLOR="Libre Yellow 0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="14" wordTrack="1" LANGUAGE="pl"/>
@@ -213,7 +213,7 @@
         <PAGEOBJECT XPOS="85.8274015748031" YPOS="14116.0592125984" OwnPage="31" ItemID="1517545402" PTYPE="2" WIDTH="623.622047244095" HEIGHT="870.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229525965124805" LOCALSCY="0.232434887946699" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/WoP_instrukcja_pusta_p34.png" PRFILE="Embedded Artifex Software sRGB ICC Profile" IRENDER="0" EPROF="Embedded Artifex Software sRGB ICC Profile" path="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" copath="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" gXpos="681.102992125984" gYpos="5.82299212599377" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="681.102992125984" YPOS="14116.0592125984" OwnPage="31" ItemID="1517528298" PTYPE="2" WIDTH="623.622047244095" HEIGHT="870.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229525965124805" LOCALSCY="0.232434887946699" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/WoP_instrukcja_pusta_p35.png" PRFILE="Embedded Artifex Software sRGB ICC Profile" IRENDER="0" EPROF="Embedded Artifex Software sRGB ICC Profile" path="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" copath="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" gXpos="681.102992125984" gYpos="5.82299212599377" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="85.8274015748031" YPOS="13234.1697637795" OwnPage="29" ItemID="1517608538" PTYPE="2" WIDTH="623.622047244095" HEIGHT="870.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229525965124805" LOCALSCY="0.232434887946699" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/WoP_instrukcja_pusta_p26.png" PRFILE="Embedded Artifex Software sRGB ICC Profile" IRENDER="0" EPROF="Embedded Artifex Software sRGB ICC Profile" path="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" copath="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" gXpos="681.102992125984" gYpos="5.82330708662288" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="681.102992125984" YPOS="13234.1697637795" OwnPage="29" ItemID="1517502474" PTYPE="2" WIDTH="623.622047244095" HEIGHT="870.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229525965124805" LOCALSCY="0.232434887946699" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/WoP_instrukcja_pusta_p27.png" PRFILE="Embedded Artifex Software sRGB ICC Profile" IRENDER="0" EPROF="Embedded Artifex Software sRGB ICC Profile" path="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" copath="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" gXpos="681.102992125984" gYpos="5.82330708662288" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="681.102992125984" YPOS="13234.1697637795" OwnPage="29" ItemID="1517502474" PTYPE="2" WIDTH="623.622047244095" HEIGHT="870.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229525965124805" LOCALSCY="0.232434887946699" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/WoP_instrukcja_pusta_p33.png" PRFILE="Embedded Artifex Software sRGB ICC Profile" IRENDER="0" EPROF="Embedded Artifex Software sRGB ICC Profile" path="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" copath="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" gXpos="681.102992125984" gYpos="5.82330708662288" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="85.8274015748031" YPOS="12352.2803149606" OwnPage="27" ItemID="1517494538" PTYPE="2" WIDTH="623.622047244095" HEIGHT="870.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229525965124805" LOCALSCY="0.232434887946699" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/WoP_instrukcja_pusta_p26.png" PRFILE="Embedded Artifex Software sRGB ICC Profile" IRENDER="0" EPROF="Embedded Artifex Software sRGB ICC Profile" path="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" copath="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" gXpos="681.102992125984" gYpos="5.82362204725199" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="681.102992125984" YPOS="12352.2803149606" OwnPage="27" ItemID="1517426650" PTYPE="2" WIDTH="623.622047244095" HEIGHT="870.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229525965124805" LOCALSCY="0.232434887946699" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/WoP_instrukcja_pusta_p27.png" PRFILE="Embedded Artifex Software sRGB ICC Profile" IRENDER="0" EPROF="Embedded Artifex Software sRGB ICC Profile" path="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" copath="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" gXpos="681.102992125984" gYpos="5.82362204725199" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="85.8274015748031" YPOS="11470.3908661417" OwnPage="25" ItemID="1517592042" PTYPE="2" WIDTH="623.622047244095" HEIGHT="870.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229525965124805" LOCALSCY="0.232434887946699" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="0" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/WoP_instrukcja_pusta_p26.png" PRFILE="Embedded Artifex Software sRGB ICC Profile" IRENDER="0" EPROF="Embedded Artifex Software sRGB ICC Profile" path="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" copath="M0 0 L623.622 0 L623.622 870.236 L0 870.236 L0 0 Z" gXpos="681.102992125984" gYpos="5.8239370078811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
@@ -1481,39 +1481,55 @@
                 <para/>
                 <ITEXT CH="FORTYFIKACJE, MIASTA, TWIERDZE I OBLĘŻENIA"/>
                 <para PARENT="Box tytuł 0"/>
-                <ITEXT CH="Podczas wielu bitew opisanych we „Władcy Pierścieni” armie broniły się w lub próbowały zdobyć fortece, brody, miasta i tym podobne miejsca. Dlatego też fortyfikacje, miasta i twierdze są jednym z kluczowych elementów Wojny o Pierścień. Poniżej znajdują się zasady odnoszące się do tego aspektu gry."/>
+                <ITEXT CH="Podczas wielu bitew opisanych we „"/>
+                <ITEXT CPARENT="kursywa" CH="Władcy Pierścieni"/>
+                <ITEXT CH="” armie broniły się w lub próbowały zdobyć fortece, brody, miasta i tym podobne miejsca. Dlatego też fortyfikacje, miasta i twierdze są jednym z kluczowych elementów "/>
+                <ITEXT CPARENT="kursywa" CH="Wojny o Pierścień"/>
+                <ITEXT CH=". Poniżej znajdują się zasady odnoszące się do tego aspektu gry."/>
                 <para/>
                 <ITEXT CH="ATAKOWANIE MIAST I FORTYFIKACJI"/>
-                <para/>
-                <ITEXT CH="Kiedy gracz atakuje wroga broniącego się w regionie, w którym znajduje się miasto lub fortyfikacja, podczas pierwszej rundy bitwy broniący się gracz może, oprócz swoich standardowych kości bitwy, rzucić kością fortyfikacji. Rzut kością bitwy fortyfikacji to jedyny przypadek, gdy gracz może rzucić więcej niż 5 kośćmi bitwy. "/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Kiedy gracz atakuje wroga broniącego się w regionie, w którym znajduje się miasto lub fortyfikacja, "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="podczas pierwszej rundy bitwy"/>
+                <ITEXT CH=" broniący się gracz może, oprócz swoich standardowych kości bitwy, rzucić kością fortyfikacji. Rzut kością bitwy fortyfikacji to jedyny przypadek, gdy gracz może rzucić więcej niż 5 kośćmi bitwy. "/>
                 <para/>
                 <ITEXT CH="Kość bitwy fortyfikacji posiada następujące ścianki:"/>
                 <para/>
-                <ITEXT CH="- 2x Tarcza"/>
-                <para/>
-                <ITEXT CH="- 1x 2 Tarcze"/>
-                <para/>
-                <ITEXT CH="- 1x Czaszka i Tarcza"/>
-                <para/>
-                <ITEXT CH="- 1x Czaszka"/>
-                <para/>
-                <ITEXT CH="- 1x 2 Czaszki"/>
-                <para/>
+                <ITEXT CH="2x Tarcza"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="1x 2 Tarcze"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="1x Czaszka i Tarcza"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="1x Czaszka"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="1x 2 Czaszki"/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="Podczas późniejszych rund bitwy gracze stosują się do normalnych zasad."/>
                 <para/>
                 <ITEXT CH="ATAKOWANIE TWIERDZY"/>
-                <para/>
-                <ITEXT CH="Kiedy gracz atakuje wroga broniącego się w regionie, w którym znajduje się twierdza, obrońca musi, przed każdą rundą bitwy, zdecydować, czy zamierza wydać przeciwnikowi bitwę w polu, czy też wycofa się do obleganej twierdzy."/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Kiedy gracz atakuje wroga broniącego się w regionie, w którym znajduje się twierdza, obrońca musi, "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="przed każdą rundą bitwy"/>
+                <ITEXT CH=", zdecydować, czy zamierza "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="wydać przeciwnikowi bitwę w polu"/>
+                <ITEXT CH=", czy też "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="wycofa się do obleganej twierdzy"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="Wydanie bitwy w polu"/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
                 <ITEXT CH="Gracze rozgrywają bitwę w polu zgodnie z normalnymi zasadami."/>
                 <para/>
                 <ITEXT CH="Wycofanie się do obleganej twierdzy"/>
+                <para PARENT="Box tytuł -2"/>
+                <ITEXT CH="Gdy tylko obrońca "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="wycofa się do obleganej twierdzy"/>
+                <ITEXT CH=", region, w którym znajduje się ta twierdza, zostaje oddany wrogowi – atakujący może natychmiast przesunąć swoją armię do takiego regionu."/>
                 <para/>
-                <ITEXT CH="Gdy tylko obrońca wycofa się do obleganej twierdzy, region, w którym znajduje się ta twierdza, zostaje oddany wrogowi – atakujący może natychmiast przesunąć swoją armię do takiego regionu."/>
-                <para/>
-                <ITEXT CH="Jeśli atakująca armia wkroczy do takiego regionu, twierdzę uważa się za oblężoną, a bitwa się kończy."/>
+                <ITEXT CH="Jeśli atakująca armia wkroczy do takiego regionu, twierdzę uważa się za "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="oblężoną, a bitwa się kończy"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="Uważa się, że od tego momentu broniące się jednostki znajdują się w samej twierdzy. Jeśli graczowi braknie miejsca, powinien przenieść swoje figurki na odpowiednie pole twierdzy znajdujące się przy brzegu planszy."/>
                 <para/>
@@ -1528,27 +1544,33 @@
                 <ITEXT CH="Kiedy oblężenie zostanie zakończone, te z figurek obrońcy, które je przetrwały, powinny zostać z powrotem przesunięte z pola twierdzy do odpowiedniego regionu mapy."/>
                 <para/>
                 <ITEXT CH="PRZEPROWADZANIE OBLĘŻENIA"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Kiedy twierdza zostanie oblężona, znajdująca się wewnątrz jej murów armia może zostać zaatakowana jedynie przez armię, która znajduje się w "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="tym samym regionie co twierdza"/>
+                <ITEXT CH=". Aby to zrobić, atakujący gracz musi wykorzystać kość akcji podczas fazy Rozpatrywania akcji, wydając im w ten sposób bitwę."/>
                 <para/>
-                <ITEXT CH="Kiedy twierdza zostanie oblężona, znajdująca się wewnątrz jej murów armia może zostać zaatakowana jedynie przez armię, która znajduje się w tym samym regionie co twierdza. Aby to zrobić, atakujący gracz musi wykorzystać kość akcji podczas fazy Rozpatrywania akcji, wydając im w ten sposób bitwę."/>
-                <para/>
-                <ITEXT CH="Każdą bitwę wydaną oblężonej armii uważa się za atak na mury."/>
+                <ITEXT CH="Każdą bitwę wydaną oblężonej armii uważa się za "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="atak na mury"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="Podczas ataku na mury broniący się gracz może w każdej rundzie bitwy, oprócz swoich standardowych kości bitwy, rzucać kością fortyfikacji. "/>
                 <para/>
-                <ITEXT CH="W przeciwieństwie do normalnej bitwy, atak na mury trwa tylko jedną rundę, chyba że atakujący zdecyduje się dobrowolnie zredukować do jednostki regularnej jedną z biorących udział w bitwie jednostek elitarnych. Jeśli atakujący podejmie taką decyzję, atak na mury trwa dodatkową rundę."/>
+                <ITEXT CH="W przeciwieństwie do normalnej bitwy, atak na mury "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="trwa tylko jedną rundę"/>
+                <ITEXT CH=", chyba że atakujący zdecyduje się dobrowolnie zredukować do jednostki regularnej jedną z biorących udział w bitwie jednostek elitarnych. Jeśli atakujący podejmie taką decyzję, atak na mury trwa dodatkową rundę."/>
                 <para/>
                 <ITEXT CH="W ten sposób gracz może przedłużać atak na mury wielokrotnie – o ile oczywiście pod koniec rundy wciąż będzie posiadał dostępne jednostki elitarne, które mógłby zredukować."/>
                 <para/>
                 <ITEXT CH="Jeśli atak na mury się zakończy, a w armiach atakującego i obrońcy wciąż pozostały jakieś jednostki, broniącą się armię nadal uważa się za oblężoną."/>
                 <para/>
                 <ITEXT CH="Ograniczenia"/>
-                <para/>
-                <ITEXT CH="— Broniąca się armia znajdująca się w oblężonej twierdzy nigdy nie może przeprowadzić odwrotu do sąsiedniego regionu."/>
-                <para/>
-                <ITEXT CH="— Oblegająca twierdzę armia może w dowolnym momencie opuścić dany region. Jeśli w takim regionie nie pozostaną żadne wrogie jednostki, twierdza przestaje być oblężona."/>
-                <para/>
+                <para PARENT="Box tytuł -2"/>
+                <ITEXT CH="Broniąca się armia znajdująca się w oblężonej twierdzy nigdy nie może przeprowadzić odwrotu do sąsiedniego regionu."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Oblegająca twierdzę armia może w dowolnym momencie opuścić dany region. Jeśli w takim regionie nie pozostaną żadne wrogie jednostki, twierdza przestaje być oblężona."/>
+                <para PARENT="Lista wypunktowana"/>
                 <ITEXT CH="WYPAD WOJSK OBLĘŻONYCH"/>
-                <para/>
+                <para PARENT="Box tytuł -1"/>
                 <ITEXT CH="Armia znajdująca się w oblężonej twierdzy może przeprowadzić wypad na oblegającą armię. Aby to zrobić, gracz musi wykorzystać kość akcji podczas fazy Rozpatrywania akcji, aby wydać jej bitwę."/>
                 <para/>
                 <ITEXT CH="Bitwę, podczas której atakujący jest oblężony, nazywa się wypadem wojsk oblężonych."/>
@@ -1562,7 +1584,7 @@
                 <ITEXT CH="Jeśli atakująca armia wygra wypad wojsk oblężonych, nie może opuścić regionu, w którym znajduje się twierdza."/>
                 <para/>
                 <ITEXT CH="ODSIECZ"/>
-                <para/>
+                <para PARENT="Box tytuł -1"/>
                 <ITEXT CH="Armia znajdująca się w sąsiednim regionie może zaatakować wrogą armię oblegającą przyjazną twierdzę zgodnie z normalnymi zasadami."/>
                 <para/>
                 <ITEXT CH="Armia wewnątrz twierdzy nie bierze udziału w tej bitwie."/>
@@ -1570,20 +1592,22 @@
                 <ITEXT CH="Atakująca armia nie może przesunąć się do regionu, w którym znajduje się twierdza, chyba że oblegająca armia zostanie zniszczona lub przeprowadzi odwrót."/>
                 <para/>
                 <ITEXT CH="WZMOCNIENIE OBLĘŻENIA"/>
-                <para/>
+                <para PARENT="Box tytuł -1"/>
                 <ITEXT CH="Kiedy twierdza jest oblężona, oblegający gracz może przesuwać do jej regionu nowe wojska (ponieważ dla niego jest to wolny region). Taką akcję uważa się za ruch, nie za atak."/>
                 <para/>
                 <ITEXT CH="ZDOBYWANIE OSAD"/>
-                <para/>
+                <para PARENT="Box tytuł 0"/>
                 <ITEXT CH="Na początku rozgrywki każdy Naród kontroluje osady, które znajdują się w regionach w jego granicach."/>
                 <para/>
                 <ITEXT CH="Region uważa się za zdobyty, gdy:"/>
                 <para/>
-                <ITEXT CH="— wroga armia wkroczy do regionu, w którym znajduje się wioska, miasto lub nieobsadzona twierdza, ALBO"/>
-                <para/>
-                <ITEXT CH="— wszystkie jednostki broniące się w twierdzy zostaną wyeliminowane, a w oblegającej twierdzę armii wciąż znajduje się przynajmniej 1 jednostka."/>
-                <para/>
-                <ITEXT CH="Gracz, który zdobywa osadę, umieszcza w jej regionie swój znacznik kontroli."/>
+                <ITEXT CH="wroga armia wkroczy do regionu, w którym znajduje się wioska, miasto lub nieobsadzona twierdza, ALBO"/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="wszystkie jednostki broniące się w twierdzy zostaną wyeliminowane, a w oblegającej twierdzę armii wciąż znajduje się przynajmniej 1 jednostka."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Gracz, który zdobywa osadę, umieszcza w jej regionie "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="swój znacznik kontroli"/>
+                <ITEXT CH="."/>
                 <para/>
                 <ITEXT CH="Zdobyta wioska, miasto lub twierdza nie mogą zostać wykorzystane podczas mobilizacji wojsk i przesuwania znaczników na torze polityki."/>
                 <para/>
@@ -1599,105 +1623,17 @@
         <PAGEOBJECT XPOS="735.276220472441" YPOS="11574.5697637795" OwnPage="26" ItemID="2014888522" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488196" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892157082" BACKITEM="2014896506"/>
         <PAGEOBJECT XPOS="140.00062992126" YPOS="12456.4592125984" OwnPage="27" ItemID="1892157082" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488198" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892182938" BACKITEM="2014888522"/>
         <PAGEOBJECT XPOS="735.276220472441" YPOS="12456.4592125984" OwnPage="28" ItemID="1892182938" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488198" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1892185322" BACKITEM="1892157082"/>
-        <PAGEOBJECT XPOS="140.00062992126" YPOS="13328.346992126" OwnPage="29" ItemID="1892185322" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2015278906" BACKITEM="1892182938"/>
-        <PAGEOBJECT XPOS="735.276220472441" YPOS="13328.346992126" OwnPage="30" ItemID="2015278906" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1892185322"/>
-        <PAGEOBJECT XPOS="140.00062992126" YPOS="14210.2364409449" OwnPage="31" ItemID="2015268874" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2031495818" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <ITEXT CH="ROZDZIAŁ VII :"/>
-                <para/>
-                <ITEXT CH="NARODY ŚRÓDZIEMIA"/>
-                <para/>
-                <ITEXT CH="Koniec Trzeciej Ery był mrocznym okresem w historii Śródziemia. Chociaż lojalność Wolnych Ludów nigdy nie była kwestionowana, różne narody traktowały zagrożenie ze strony Saurona z różną dozą pobłażliwości. W Wojnie o Pierścień ten aspekt książek reprezentują pozycje, które na torze polityki zajmują znaczniki Narodów."/>
-                <para/>
-                <ITEXT CH="TOR POLITYKI"/>
-                <para/>
-                <ITEXT CH="Początkowa pozycja Narodu na torze polityki (oznaczona symbolem Narodu na samym torze) wskazuje na początkowe podejście tego Narodu do groźby ze strony Saurona. Im dalej od pola „stanu wojny” na torze polityki znajduje się znacznik danego Narodu, tym mniej dany Naród skłonny jest wziąć udział w nadciągającym konflikcie."/>
-                <para/>
-                <ITEXT CH="Aby uznać, że dany Naród jest całkowicie zmobilizowany i gotowy do walki, jego znacznik musi się znajdować na ostatnim polu toru, polu „stanu wojny”."/>
-                <para/>
-                <ITEXT CH="Niechęć do wzięcia udziału w wojnie została przedstawiona jeszcze w inny sposób. Wszystkie Narody Wolnych Ludów z wyjątkiem elfów rozpoczynają grę w stanie „pasywnym” (gracze zaznaczają to, umieszczając znacznik Narodu na torze polityki szarą stroną ku górze)."/>
-                <para/>
-                <ITEXT CH="Dopóki dany Naród pozostaje „pasywny”, gracz nigdy nie będzie mógł przesunąć go na ostatnie pole toru („stan wojny”), Naród ten nie będzie więc w pełni zmobilizowany."/>
-                <para/>
-                <ITEXT CH="AKTYWOWANIE NARODÓW WOLNYCH LUDÓW"/>
-                <para/>
-                <ITEXT CH="Znacznik polityki danego Narodu Wolnych Ludów zostaje odwrócony na stronę „aktywną” (niebieską), kiedy nastąpi jedno z poniższych zdarzeń:"/>
-                <para/>
-                <ITEXT CH="— Do jednego z regionów tego Narodu wkroczy wroga armia."/>
-                <para/>
-                <ITEXT CH="— Armia, w skład której wchodzą jednostki tego Narodu, zostanie zaatakowana."/>
-                <para/>
-                <ITEXT CH="— Drużyna Pierścienia ujawni się w mieście lub twierdzy danego Narodu."/>
-                <para/>
-                <ITEXT CH="— Kiedy Towarzysz (potrafiący aktywować dany Naród) zakończy swój ruch w osadzie tego Narodu."/>
-                <para/>
-                <ITEXT CH="W prawym dolnym rogu każdej karty Towarzysza znajduje się symbol wskazujący, który Naród dany Towarzysz może aktywować ruchem do jednej z osad  tego Narodu."/>
-                <para/>
-                <ITEXT CH="Należy zauważyć, że karty Gandalfa, Aragorna, Meriadoka Brandybucka i Peregrina Tuka posiadają w lewym dolnym rogu symbol Wolnych Ludów (zamiast symbolu któregoś z Narodów). Swoim ruchem do osady te postacie mogą aktywować każdy Naród Wolnych Ludów."/>
-                <para/>
-                <ITEXT CH="PRZESUWANIE ZNACZNIKÓW NA TORZE POLITYKI"/>
-                <para/>
-                <ITEXT CH="Aby przesunąć znacznik jakiegoś Narodu na torze polityki (przesuwa się go o jedno pole w dół, w kierunku pola „stanu wojny”), gracz musi wykorzystać wynik „Mobilizacji” kości akcji albo zagrać odpowiednią kartę Wydarzenia."/>
-                <para/>
-                <ITEXT CH="Znacznik przesunie się też automatycznie, kiedy nastąpi jedno z poniższych zdarzeń:"/>
-                <para/>
-                <ITEXT CH="— Za każdym razem, kiedy armia, w skład której wchodzą jednostki danego Narodu, zostanie zaatakowana (każdą bitwę uważa się za jeden atak, bez względu na liczbę rozegranych rund bitwy). Należy też pamiętać, że Naród, którego armia zostanie zaatakowana, staje się aktywny."/>
-                <para/>
-                <ITEXT CH="— Za każdym razem, kiedy osada (wioska, miasto lub twierdza) danego Narodu zostanie zdobyta przez przeciwnika."/>
-                <para/>
-                <ITEXT CH="Przykład: Gracz Cienia atakuje armię Północy w mieście Dale. Po pierwszej rundzie walki gracz Wolnych Ludów decyduje się na odwrót jedyną pozostałą na planszy regularną jednostką Północy. Armia Cienia wkracza do nowo zdobytego miasta, a gracz umieszcza na nim swój znacznik kontroli. W wyniku tej akcji naród Północy zostaje aktywowany, a jego znacznik na torze polityki zostaje przesunięty o dwa pola w kierunku pola „stan wojny” (armia Północy została zaatakowana, a potem miasto Północy zostało zdobyte przez Cień)."/>
-                <para/>
-                <ITEXT CH="Uwaga: Niektóre karty Wydarzeń lub zdolności postaci mogą pozwolić na przesunięcie znacznika na torze polityki w kierunku przeciwnym do „stanu wojny”, co czasami może nawet spowodować wycofanie się Narodu z wojny. Jednak Naród nigdy nie może przesunąć się wyżej niż najwyżej umieszczone pole."/>
-                <para/>
-                <ITEXT CH="DOŁĄCZENIE DO WOJNY"/>
-                <para/>
-                <ITEXT CH="Naród, który nie znajduje się w „stanie wojny”, jest uznawany za nieagresywny."/>
-                <para/>
-                <ITEXT CH="Nieagresywne Narody podlegają szeregowi ograniczeń związanych z możliwościami ich armii."/>
-                <para/>
-                <ITEXT CH="Jednostki i dowódcy nieagresywnego Narodu muszą stosować się do poniższych ograniczeń:"/>
-                <para/>
-                <ITEXT CH="— Mogą poruszać się poza granice swojego Narodu, ale nigdy nie mogą przekraczać granic innych Narodów (w tym przyjaznych)."/>
-                <para/>
-                <ITEXT CH="— Nie mogą atakować wrogich armii (ale mogą się bronić, jeśli zostaną zaatakowane)."/>
-                <para/>
-                <ITEXT CH="— Nigdy nie mogą być rekrutowane przy wykorzystaniu wyniku „Mobilizacji” kości akcji."/>
-                <para/>
-                <ITEXT CH="Gracze muszą respektować te ograniczenia nawet, jeśli jednostki nieagresywnego Narodu znajdują się w jednej armii z jednostkami Narodu w „stanie wojny”."/>
-                <para/>
-                <ITEXT CH="Wyjątek: Jednostki nieagresywnego Narodu mogą przekraczać granicę innego Narodu, jeśli przeprowadzają odwrót z bitwy. Jeśli gracz przekroczy w ten sposób granicę innego Narodu, podczas następnego ruchu tych jednostek, muszą one opuścić granice tego Narodu, chyba że w międzyczasie ich Naród znajdzie się w „stanie wojny”."/>
-                <para/>
-                <ITEXT CH="Przykład: Dwie jednostki Północy z Dale przeprowadzają odwrót z bitwy. Północ nie znajduje się w „stanie wojny”, ale jednostki te mogą się wycofać do Ereboru (który należy do Narodu krasnoludów). Jednostki te nie mogłyby przekroczyć tej granicy normalnym ruchem, ale ze względu na fakt, że przeprowadzają odwrót, mogą to zrobić."/>
-                <para/>
-                <ITEXT CH="Kiedy znacznik polityki Narodu zostanie przesunięty na ostatnie pole toru polityki, dany Naród przejdzie w „stan wojny”."/>
-                <para/>
-                <ITEXT CH="Narodu znajdującego się w „stanie wojny” nie wiążą ograniczenia nałożone na Naród nieagresywny. Armie takiego Narodu mogą swobodnie się poruszać po planszy, przekraczać granice innych Narodów i atakować wrogie armie, a gracz może rekrutować wojska tego Narodu, wykorzystując wynik „Mobilizacji” kości akcji."/>
-                <para/>
-                <ITEXT CH="Tak jak zaznaczono wcześniej, „pasywny” Naród Wolnych Ludów nigdy nie może znaleźć się w „stanie wojny”. Zanim gracz przesunie jego znacznik na ostatnie pole toru polityki, musi go wpierw aktywować."/>
-                <para/>
-                <ITEXT CH="POSTACIE NA WOJNIE"/>
-                <para/>
-                <ITEXT CH="Postacie  i Nazgûle mogą się swobodnie poruszać po planszy i uczestniczyć w bitwach bez względu na to, na jakim polu znajduje się znacznik Narodu, z którego pochodzą. Mówiąc w skrócie, uważa się, że postacie już znajdują się w „stanie wojny”."/>
-                <para/>
-                <ITEXT CH="Przykład: Nazgûl może wziąć udział w bitwie, mimo że Naród Saurona nie znajduje się jeszcze w „stanie wojny”."/>
-                <para/>
-                <ITEXT CH="POMNIEJSZE NARODY"/>
-                <para/>
-                <ITEXT CH="Niektóre karty Wydarzeń mogą umieszczać jednostki należące do Narodów, które nie są reprezentowane na torze polityki (Enty, Orły, Vanyarowie i Umarli w przypadku Wolnych Ludów; Nietoperze, Pająki i Górale w przypadku Cienia). Te Pomniejsze Narody liczą się jako będące w „stanie wojny” od samego początku."/>
-                <para/>
-                <ITEXT CH="Ponieważ nie mają żadnej osady należącej do ich Narodu, mogą zostać wzmocnione tylko dzięki kartom Wydarzeń."/>
-                <trail/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="735.276220472441" YPOS="14210.2364409449" OwnPage="32" ItemID="2031495818" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="2015268874"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="13338.3486614173" OwnPage="29" ItemID="1892185322" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488199" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2015278906" BACKITEM="1892182938"/>
+        <PAGEOBJECT XPOS="735.276220472441" YPOS="13338.3486614173" OwnPage="30" ItemID="2015278906" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488199" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1892185322"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="14220.2381102362" OwnPage="31" ItemID="2015268874" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2031495818" BACKITEM="2096206090"/>
+        <PAGEOBJECT XPOS="735.276220472441" YPOS="14220.2381102362" OwnPage="32" ItemID="2031495818" PTYPE="4" WIDTH="515.275590551181" HEIGHT="711.884094488201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" copath="M0 0 L515.276 0 L515.276 711.884 L0 711.884 L0 0 Z" gXpos="735.276220472441" gYpos="3637.56440944881" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="2015268874"/>
         <PAGEOBJECT XPOS="140.00062992126" YPOS="15092.1258897638" OwnPage="33" ItemID="2031499162" PTYPE="4" WIDTH="515.275590551181" HEIGHT="721.885763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" copath="M0 0 L515.276 0 L515.276 721.886 L0 721.886 L0 0 Z" gXpos="735.276220472441" gYpos="3627.56274015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2031522458" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ROZDZIAŁ VIII :"/>
-                <para/>
+                <para PARENT="Rozdział nr"/>
                 <ITEXT CH="DRUŻYNA PIERŚCIENIA"/>
-                <para/>
+                <para PARENT="Rozdział tytuł"/>
                 <ITEXT CH="W Wojnie o Pierścień Frodo i Sam są nierozłączni, reprezentuje ich jedna figurka Powierników Pierścienia. Tak jak opisano to we Władcy Pierścieni, wraz z nimi podróżuje grupa Towarzyszy, wybranych spośród wszystkich Wolnych Ludów Śródziemia."/>
                 <para/>
                 <ITEXT CH="Wszystkie te postacie tworzą Drużynę Pierścienia. Frodo i Sam są zdeterminowani dotrzeć do Góry Przeznaczenia, ale pozostali Towarzysze mają wybór: mogą zostać i chronić Drużynę Pierścienia albo z czasem ją opuścić, aby wspomóc Wolne Ludy Zachodu w wojnie z Cieniem."/>
@@ -2482,5 +2418,104 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="1004.56755905512" YPOS="9537.11433070864" OwnPage="20" ItemID="2109662698" PTYPE="2" WIDTH="257.909921259841" HEIGHT="34.6620472441155" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/empty.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L257.91 0 L257.91 34.662 L0 34.662 L0 0 Z" copath="M0 0 L257.91 0 L257.91 34.662 L0 34.662 L0 0 Z" gXpos="1004.56755905512" gYpos="9537.11433070865" gWidth="0" gHeight="0" PSTYLE="Rozdział nr (center)" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="400.019527559054" YPOS="14220.2381102362" OwnPage="31" ItemID="2098112442" PTYPE="2" WIDTH="255.256692913387" HEIGHT="440.027716535431" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="125.007874015743" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/empty.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L255.257 0 L255.257 440.028 L0 440.028 L0 0 Z" copath="M0 0 L255.257 0 L255.257 440.028 L0 440.028 L0 0 Z" gXpos="400.019527559054" gYpos="14220.2381102362" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="995.295118110235" YPOS="14370.2475590551" OwnPage="32" ItemID="2064379770" PTYPE="2" WIDTH="255.256692913387" HEIGHT="561.874645669292" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../PnP/todo/Wojna o Pierścień Ultimate/skład/img/empty.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L255.257 0 L255.257 561.875 L0 561.875 L0 0 Z" copath="M0 0 L255.257 0 L255.257 561.875 L0 561.875 L0 0 Z" gXpos="995.295118110235" gYpos="14370.2475590551" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1002.66850278076" YPOS="13338.3486614173" OwnPage="30" ItemID="2096206090" PTYPE="4" WIDTH="250.147718847921" HEIGHT="711.88409448819" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.148 0 L250.148 711.884 L0 711.884 L0 0 Z" copath="M0 0 L250.148 0 L250.148 711.884 L0 711.884 L0 0 Z" gXpos="1002.66850278076" gYpos="13338.3486614173" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="2015268874" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ROZDZIAŁ VII :"/>
+                <para PARENT="Rozdział nr"/>
+                <ITEXT CH="NARODY ŚRÓDZIEMIA"/>
+                <para PARENT="Rozdział tytuł"/>
+                <ITEXT CH="Koniec Trzeciej Ery był mrocznym okresem w historii Śródziemia. Chociaż lojalność Wolnych Ludów nigdy nie była kwestionowana, różne narody traktowały zagrożenie ze strony Saurona z różną dozą pobłażliwości. W Wojnie o Pierścień ten aspekt książek reprezentują pozycje, które na "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="torze polityki"/>
+                <ITEXT CH=" zajmują znaczniki Narodów."/>
+                <para/>
+                <ITEXT CH="TOR POLITYKI"/>
+                <para PARENT="Box tytuł 0"/>
+                <ITEXT CH="Początkowa pozycja Narodu na torze polityki (oznaczona symbolem Narodu na samym torze) wskazuje na początkowe podejście tego Narodu do groźby ze strony Saurona. Im dalej od pola „stanu wojny” na torze polityki znajduje się znacznik danego Narodu, tym mniej dany Naród skłonny jest wziąć udział w nadciągającym konflikcie."/>
+                <para/>
+                <ITEXT CH="Aby uznać, że dany Naród jest całkowicie zmobilizowany i gotowy do walki, jego znacznik musi się znajdować na ostatnim polu toru, polu „stanu wojny”."/>
+                <para/>
+                <ITEXT CH="Niechęć do wzięcia udziału w wojnie została przedstawiona jeszcze w inny sposób. Wszystkie Narody Wolnych Ludów z wyjątkiem elfów rozpoczynają grę w stanie „pasywnym” (gracze zaznaczają to, umieszczając znacznik Narodu na torze polityki szarą stroną ku górze)."/>
+                <para/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Dopóki dany Naród pozostaje „pasywny”, gracz nigdy nie będzie mógł przesunąć go na ostatnie pole toru („stan wojny”), Naród ten nie będzie więc w pełni zmobilizowany."/>
+                <para/>
+                <ITEXT CH="AKTYWOWANIE NARODÓW WOLNYCH LUDÓW"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Znacznik polityki danego Narodu Wolnych Ludów zostaje odwrócony na stronę „aktywną” (niebieską), kiedy nastąpi jedno z poniższych zdarzeń:"/>
+                <para/>
+                <ITEXT CH="Do jednego z regionów tego Narodu wkroczy wroga armia."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Armia, w skład której wchodzą jednostki tego Narodu, zostanie zaatakowana."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Drużyna Pierścienia ujawni się w mieście lub twierdzy danego Narodu."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Kiedy Towarzysz (potrafiący aktywować dany Naród) zakończy swój ruch w osadzie tego Narodu."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="W prawym dolnym rogu każdej karty Towarzysza znajduje się symbol wskazujący, który Naród dany Towarzysz może aktywować ruchem do jednej z osad  tego Narodu."/>
+                <para/>
+                <ITEXT CH="Należy zauważyć, że karty Gandalfa, Aragorna, Meriadoka Brandybucka i Peregrina Tuka posiadają w lewym dolnym rogu symbol Wolnych Ludów (zamiast symbolu któregoś z Narodów). Swoim ruchem do osady te postacie mogą aktywować każdy Naród Wolnych Ludów."/>
+                <para/>
+                <ITEXT CH="PRZESUWANIE ZNACZNIKÓW NA TORZE POLITYKI"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Aby przesunąć znacznik jakiegoś Narodu na torze polityki (przesuwa się go o jedno pole w dół, w kierunku pola „stanu wojny”), gracz musi wykorzystać wynik „Mobilizacji” kości akcji albo zagrać odpowiednią kartę Wydarzenia."/>
+                <para/>
+                <ITEXT CH="Znacznik przesunie się też "/>
+                <ITEXT CPARENT="kursywa" CH="automatycznie"/>
+                <ITEXT CH=", kiedy nastąpi jedno z poniższych zdarzeń:"/>
+                <para/>
+                <ITEXT CH="Za każdym razem, kiedy armia, w skład której wchodzą jednostki danego Narodu, zostanie zaatakowana (każdą bitwę uważa się za jeden atak, bez względu na liczbę rozegranych rund bitwy). Należy też pamiętać, że Naród, którego armia zostanie zaatakowana, staje się aktywny."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Za każdym razem, kiedy osada (wioska, miasto lub twierdza) danego Narodu zostanie zdobyta przez przeciwnika."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CPARENT="kursywa+pogrubienie" CH="Przykład"/>
+                <ITEXT CH=": Gracz Cienia atakuje armię Północy w mieście Dale. Po pierwszej rundzie walki gracz Wolnych Ludów decyduje się na odwrót jedyną pozostałą na planszy regularną jednostką Północy. Armia Cienia wkracza do nowo zdobytego miasta, a gracz umieszcza na nim swój znacznik kontroli. W wyniku tej akcji naród Północy zostaje aktywowany, a jego znacznik na torze polityki zostaje przesunięty o dwa pola w kierunku pola „stan wojny” (armia Północy została zaatakowana, a potem miasto Północy zostało zdobyte przez Cień)."/>
+                <para PARENT="przykład"/>
+                <ITEXT CH="Uwaga: Niektóre karty Wydarzeń lub zdolności postaci mogą pozwolić na przesunięcie znacznika na torze polityki w kierunku przeciwnym do „stanu wojny”, co czasami może nawet spowodować wycofanie się Narodu z wojny. Jednak Naród nigdy nie może przesunąć się wyżej niż najwyżej umieszczone pole."/>
+                <para PARENT="uwaga red center"/>
+                <ITEXT CH="DOŁĄCZENIE DO WOJNY"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Naród, który nie znajduje się w „stanie wojny”, jest uznawany za "/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="nieagresywny"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH="Nieagresywne Narody podlegają szeregowi ograniczeń związanych z możliwościami ich armii."/>
+                <para/>
+                <ITEXT CH="Jednostki i dowódcy nieagresywnego Narodu muszą stosować się do poniższych ograniczeń:"/>
+                <para/>
+                <ITEXT CH="Mogą poruszać się poza granice swojego Narodu, ale nigdy nie mogą przekraczać granic innych Narodów (w tym przyjaznych)."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Nie mogą atakować wrogich armii (ale mogą się bronić, jeśli zostaną zaatakowane)."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Nigdy nie mogą być rekrutowane przy wykorzystaniu wyniku „Mobilizacji” kości akcji."/>
+                <para PARENT="Lista wypunktowana"/>
+                <ITEXT CH="Gracze muszą respektować te ograniczenia nawet, jeśli jednostki nieagresywnego Narodu znajdują się w jednej armii z jednostkami Narodu w „stanie wojny”."/>
+                <para/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Wyjątek"/>
+                <ITEXT CH=": Jednostki nieagresywnego Narodu mogą przekraczać granicę innego Narodu, jeśli przeprowadzają odwrót z bitwy. Jeśli gracz przekroczy w ten sposób granicę innego Narodu, podczas następnego ruchu tych jednostek, muszą one opuścić granice tego Narodu, chyba że w międzyczasie ich Naród znajdzie się w „stanie wojny”."/>
+                <para/>
+                <ITEXT CH="Przykład: Dwie jednostki Północy z Dale przeprowadzają odwrót z bitwy. Północ nie znajduje się w „stanie wojny”, ale jednostki te mogą się wycofać do Ereboru (który należy do Narodu krasnoludów). Jednostki te nie mogłyby przekroczyć tej granicy normalnym ruchem, ale ze względu na fakt, że przeprowadzają odwrót, mogą to zrobić."/>
+                <para PARENT="przykład"/>
+                <ITEXT CPARENT="pogrubienie 11pt *" CH="Kiedy znacznik polityki Narodu zostanie przesunięty na ostatnie pole toru polityki, dany Naród przejdzie w „stan wojny”."/>
+                <para/>
+                <ITEXT CH="Narodu znajdującego się w „stanie wojny” nie wiążą ograniczenia nałożone na Naród nieagresywny. Armie takiego Narodu mogą swobodnie się poruszać po planszy, przekraczać granice innych Narodów i atakować wrogie armie, a gracz może rekrutować wojska tego Narodu, wykorzystując wynik „Mobilizacji” kości akcji."/>
+                <para/>
+                <ITEXT CH="Tak jak zaznaczono wcześniej, „pasywny” Naród Wolnych Ludów nigdy nie może znaleźć się w „stanie wojny”. Zanim gracz przesunie jego znacznik na ostatnie pole toru polityki, musi go wpierw aktywować."/>
+                <para/>
+                <ITEXT CH="POSTACIE NA WOJNIE"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Postacie  i Nazgûle mogą się swobodnie poruszać po planszy i uczestniczyć w bitwach bez względu na to, na jakim polu znajduje się znacznik Narodu, z którego pochodzą. Mówiąc w skrócie, uważa się, że postacie już znajdują się w „stanie wojny”."/>
+                <para/>
+                <ITEXT CH="Przykład: Nazgûl może wziąć udział w bitwie, mimo że Naród Saurona nie znajduje się jeszcze w „stanie wojny”."/>
+                <para PARENT="przykład"/>
+                <ITEXT CH="POMNIEJSZE NARODY"/>
+                <para PARENT="Box tytuł -1"/>
+                <ITEXT CH="Niektóre karty Wydarzeń mogą umieszczać jednostki należące do Narodów, które nie są reprezentowane na torze polityki (Enty, Orły, Vanyarowie i Umarli w przypadku Wolnych Ludów; Nietoperze, Pająki i Górale w przypadku Cienia). Te Pomniejsze Narody liczą się jako będące w „stanie wojny” od samego początku."/>
+                <para/>
+                <ITEXT CH="Ponieważ nie mają żadnej osady należącej do ich Narodu, mogą zostać wzmocnione tylko dzięki kartom Wydarzeń."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
