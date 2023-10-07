@@ -1,2 +1,2 @@
-# WoP_UR
-Wojna o Pierścień Ultimate Rework PL
+# WoP_UE
+Wojna o Pierścień Ultimate Edition PL
